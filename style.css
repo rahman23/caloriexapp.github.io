@@ -1,0 +1,31 @@
+
+.lead{
+  font-size: 1.2rem;
+  margin:auto;
+  width: 70vh;
+}
+#search-nutrition{
+  height:100%;
+
+}
+
+#amount{
+  width:40%;
+}
+.alert{
+  color:white;
+  display:inline-block;
+  font-size: 1.2rem;
+  font-weight:500;
+}
+.table-responsive{
+  display:table !important;
+}
+@media only screen and (max-width: 1000px) {
+  .table-responsive{
+    display:block !important;
+  }
+  .lead{
+    width:40vh;
+  }
+}

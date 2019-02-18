@@ -1,0 +1,7023 @@
+[{
+  "Category": "BUTTER",
+  "Data": {
+    "Niacin": 0.042,
+    "Major Minerals": {
+      "Copper": 0.0,
+      "Iron": 0.02,
+      "Sodium": 576,
+      "Potassium": 24,
+      "Calcium": 24,
+      "Magnesium": 2,
+      "Zinc": 0.09,
+      "Phosphorus": 24
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 2499,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 0.17,
+      "Vitamin B6": 0.003,
+      "Vitamin A - RAE": 684,
+      "Vitamin E": 2.32,
+      "Vitamin K": 7.0
+    },
+    "Carboydrate": 0.06,
+    "Selenium": 1.0,
+    "Thiamin": 0.005,
+    "Choline": 19,
+    "Beta Carotene": 158,
+    "Fiber": 0.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 51.368,
+      "Monosaturated Fat": 21.021,
+      "Total": 81.11,
+      "Polysaturated Fat": 3.043
+    },
+    "Water": 15.87,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.11,
+    "Ash": 2.11,
+    "Alpha Carotene": 0,
+    "Retinol": 671,
+    "Manganese": 0.0,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.034,
+    "Cholesterol": 215,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 717,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup",
+      "FirstHouseholdWeight": 227.0,
+      "SecondHouseholdWeight": 14,
+      "SecondHouseholdWeightDescription": "1 tbsp"
+    },
+    "Sugar Total": 0.059999999,
+    "Protein": 0.85
+  },
+  "Description": "BUTTER,WITH SALT",
+  "Nutrient Data Bank Number": 1001
+},
+{
+  "Category": "BUTTER",
+  "Data": {
+    "Niacin": 0.042,
+    "Major Minerals": {
+      "Copper": 0.016,
+      "Iron": 0.16,
+      "Sodium": 827,
+      "Potassium": 26,
+      "Calcium": 24,
+      "Magnesium": 2,
+      "Zinc": 0.05,
+      "Phosphorus": 23
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 2499,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 0.13,
+      "Vitamin B6": 0.003,
+      "Vitamin A - RAE": 684,
+      "Vitamin E": 2.32,
+      "Vitamin K": 7.0
+    },
+    "Carboydrate": 0.06,
+    "Selenium": 1.0,
+    "Thiamin": 0.005,
+    "Choline": 19,
+    "Beta Carotene": 158,
+    "Fiber": 0.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 50.489,
+      "Monosaturated Fat": 23.426,
+      "Total": 81.11,
+      "Polysaturated Fat": 3.012
+    },
+    "Water": 15.87,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.11,
+    "Ash": 2.11,
+    "Alpha Carotene": 0,
+    "Retinol": 671,
+    "Manganese": 0.004,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.034,
+    "Cholesterol": 219,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 717,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup",
+      "FirstHouseholdWeight": 151.0,
+      "SecondHouseholdWeight": 9,
+      "SecondHouseholdWeightDescription": "1 tbsp"
+    },
+    "Sugar Total": 0.059999999,
+    "Protein": 0.85
+  },
+  "Description": "BUTTER,WHIPPED,WITH SALT",
+  "Nutrient Data Bank Number": 1002
+},
+{
+  "Category": "BUTTER OIL",
+  "Data": {
+    "Niacin": 0.003,
+    "Major Minerals": {
+      "Copper": 0.001,
+      "Iron": 0.0,
+      "Sodium": 2,
+      "Potassium": 5,
+      "Calcium": 4,
+      "Magnesium": 0,
+      "Zinc": 0.01,
+      "Phosphorus": 3
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 3069,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 0.01,
+      "Vitamin B6": 0.001,
+      "Vitamin A - RAE": 840,
+      "Vitamin E": 2.8,
+      "Vitamin K": 8.6
+    },
+    "Carboydrate": 0.0,
+    "Selenium": 0.0,
+    "Thiamin": 0.001,
+    "Choline": 22,
+    "Beta Carotene": 193,
+    "Fiber": 0.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 61.924,
+      "Monosaturated Fat": 28.732,
+      "Total": 99.48,
+      "Polysaturated Fat": 3.694
+    },
+    "Water": 0.24,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.01,
+    "Ash": 0.0,
+    "Alpha Carotene": 0,
+    "Retinol": 824,
+    "Manganese": 0.0,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.005,
+    "Cholesterol": 256,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 876,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup",
+      "FirstHouseholdWeight": 205.0,
+      "SecondHouseholdWeight": 13,
+      "SecondHouseholdWeightDescription": "1 tbsp"
+    },
+    "Sugar Total": 0.0,
+    "Protein": 0.28
+  },
+  "Description": "BUTTER OIL,ANHYDROUS",
+  "Nutrient Data Bank Number": 1003
+},
+{
+  "Category": "CHEESE",
+  "Data": {
+    "Niacin": 1.016,
+    "Major Minerals": {
+      "Copper": 0.04,
+      "Iron": 0.31,
+      "Sodium": 1395,
+      "Potassium": 256,
+      "Calcium": 528,
+      "Magnesium": 23,
+      "Zinc": 2.66,
+      "Phosphorus": 387
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 763,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 1.22,
+      "Vitamin B6": 0.166,
+      "Vitamin A - RAE": 198,
+      "Vitamin E": 0.25,
+      "Vitamin K": 2.4
+    },
+    "Carboydrate": 2.34,
+    "Selenium": 14.5,
+    "Thiamin": 0.029,
+    "Choline": 15,
+    "Beta Carotene": 74,
+    "Fiber": 0.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 18.669,
+      "Monosaturated Fat": 7.778,
+      "Total": 28.74,
+      "Polysaturated Fat": 0.8
+    },
+    "Water": 42.41,
+    "Lycopene": 0,
+    "Pantothenic Acid": 1.729,
+    "Ash": 5.11,
+    "Alpha Carotene": 0,
+    "Retinol": 192,
+    "Manganese": 0.009,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.382,
+    "Cholesterol": 75,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 353,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 oz",
+      "FirstHouseholdWeight": 28.35,
+      "SecondHouseholdWeight": 17,
+      "SecondHouseholdWeightDescription": "1 cubic inch"
+    },
+    "Sugar Total": 0.5,
+    "Protein": 21.4
+  },
+  "Description": "CHEESE,BLUE",
+  "Nutrient Data Bank Number": 1004
+},
+{
+  "Category": "CHEESE",
+  "Data": {
+    "Niacin": 0.118,
+    "Major Minerals": {
+      "Copper": 0.024,
+      "Iron": 0.43,
+      "Sodium": 560,
+      "Potassium": 136,
+      "Calcium": 674,
+      "Magnesium": 24,
+      "Zinc": 2.6,
+      "Phosphorus": 451
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 1080,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 1.26,
+      "Vitamin B6": 0.065,
+      "Vitamin A - RAE": 292,
+      "Vitamin E": 0.26,
+      "Vitamin K": 2.5
+    },
+    "Carboydrate": 2.79,
+    "Selenium": 14.5,
+    "Thiamin": 0.014,
+    "Choline": 15,
+    "Beta Carotene": 76,
+    "Fiber": 0.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 18.764,
+      "Monosaturated Fat": 8.598,
+      "Total": 29.68,
+      "Polysaturated Fat": 0.784
+    },
+    "Water": 41.11,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.288,
+    "Ash": 3.18,
+    "Alpha Carotene": 0,
+    "Retinol": 286,
+    "Manganese": 0.012,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.351,
+    "Cholesterol": 94,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 371,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup, diced",
+      "FirstHouseholdWeight": 132.0,
+      "SecondHouseholdWeight": 113,
+      "SecondHouseholdWeightDescription": "1 cup, shredded"
+    },
+    "Sugar Total": 0.50999999,
+    "Protein": 23.24
+  },
+  "Description": "CHEESE,BRICK",
+  "Nutrient Data Bank Number": 1005
+},
+{
+  "Category": "CHEESE",
+  "Data": {
+    "Niacin": 0.38,
+    "Major Minerals": {
+      "Copper": 0.019,
+      "Iron": 0.5,
+      "Sodium": 629,
+      "Potassium": 152,
+      "Calcium": 184,
+      "Magnesium": 20,
+      "Zinc": 2.38,
+      "Phosphorus": 188
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 592,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 1.65,
+      "Vitamin B6": 0.235,
+      "Vitamin A - RAE": 174,
+      "Vitamin E": 0.24,
+      "Vitamin K": 2.3
+    },
+    "Carboydrate": 0.45,
+    "Selenium": 14.5,
+    "Thiamin": 0.07,
+    "Choline": 15,
+    "Beta Carotene": 9,
+    "Fiber": 0.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 17.41,
+      "Monosaturated Fat": 8.013,
+      "Total": 27.68,
+      "Polysaturated Fat": 0.826
+    },
+    "Water": 48.42,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.69,
+    "Ash": 2.7,
+    "Alpha Carotene": 0,
+    "Retinol": 173,
+    "Manganese": 0.034,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.52,
+    "Cholesterol": 100,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 334,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup, melted",
+      "FirstHouseholdWeight": 240.0,
+      "SecondHouseholdWeight": 144,
+      "SecondHouseholdWeightDescription": "1 cup, sliced"
+    },
+    "Sugar Total": 0.449999988,
+    "Protein": 20.75
+  },
+  "Description": "CHEESE,BRIE",
+  "Nutrient Data Bank Number": 1006
+},
+{
+  "Category": "CHEESE",
+  "Data": {
+    "Niacin": 0.08,
+    "Major Minerals": {
+      "Copper": 0.031,
+      "Iron": 0.68,
+      "Sodium": 621,
+      "Potassium": 98,
+      "Calcium": 721,
+      "Magnesium": 28,
+      "Zinc": 3.11,
+      "Phosphorus": 512
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 1002,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 0.83,
+      "Vitamin B6": 0.074,
+      "Vitamin A - RAE": 265,
+      "Vitamin E": 0.29,
+      "Vitamin K": 2.8
+    },
+    "Carboydrate": 1.28,
+    "Selenium": 13.9,
+    "Thiamin": 0.027,
+    "Choline": 16,
+    "Beta Carotene": 85,
+    "Fiber": 0.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 21.092,
+      "Monosaturated Fat": 9.391,
+      "Total": 33.14,
+      "Polysaturated Fat": 0.942
+    },
+    "Water": 36.75,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.413,
+    "Ash": 3.93,
+    "Alpha Carotene": 0,
+    "Retinol": 258,
+    "Manganese": 0.01,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.375,
+    "Cholesterol": 105,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 403,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup, diced",
+      "FirstHouseholdWeight": 132.0,
+      "SecondHouseholdWeight": 244,
+      "SecondHouseholdWeightDescription": "1 cup, melted"
+    },
+    "Sugar Total": 0.519999981,
+    "Protein": 24.9
+  },
+  "Description": "CHEESE,CHEDDAR",
+  "Nutrient Data Bank Number": 1009
+},
+{
+  "Category": "MILK",
+  "Data": {
+    "Niacin": 0.087,
+    "Major Minerals": {
+      "Copper": 0.01,
+      "Iron": 0.05,
+      "Sodium": 57,
+      "Potassium": 139,
+      "Calcium": 128,
+      "Magnesium": 13,
+      "Zinc": 0.36,
+      "Phosphorus": 97
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 7,
+      "Vitamin C": 0.9,
+      "Vitamin B12": 0.34,
+      "Vitamin B6": 0.04,
+      "Vitamin A - RAE": 2,
+      "Vitamin E": 0.13,
+      "Vitamin K": 0.8
+    },
+    "Carboydrate": 4.74,
+    "Selenium": 2.0,
+    "Thiamin": 0.03,
+    "Choline": 15,
+    "Beta Carotene": 0,
+    "Fiber": 0.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 3.101,
+      "Monosaturated Fat": 0.1,
+      "Total": 3.4,
+      "Polysaturated Fat": 0.01
+    },
+    "Water": 87.73,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.301,
+    "Ash": 0.8,
+    "Alpha Carotene": 0,
+    "Retinol": 2,
+    "Manganese": 0.002,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.123,
+    "Cholesterol": 2,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 63,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup",
+      "FirstHouseholdWeight": 244.0,
+      "SecondHouseholdWeight": 30,
+      "SecondHouseholdWeightDescription": "1 fl oz"
+    },
+    "Sugar Total": 4.739999771,
+    "Protein": 3.33
+  },
+  "Description": "MILK,FILLED,FLUID,W/LAURIC ACID OIL",
+  "Nutrient Data Bank Number": 1060
+},
+
+{
+  "Category": "PEANUTS",
+  "Data": {
+    "Niacin": 12.066,
+    "Major Minerals": {
+      "Copper": 1.144,
+      "Iron": 4.58,
+      "Sodium": 18,
+      "Potassium": 705,
+      "Calcium": 92,
+      "Magnesium": 168,
+      "Zinc": 3.27,
+      "Phosphorus": 376
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 0,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 0.0,
+      "Vitamin B6": 0.348,
+      "Vitamin A - RAE": 0,
+      "Vitamin E": 8.33,
+      "Vitamin K": 0.0
+    },
+    "Carboydrate": 16.13,
+    "Selenium": 7.2,
+    "Thiamin": 0.64,
+    "Choline": 52,
+    "Beta Carotene": 0,
+    "Fiber": 8.5,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 6.834,
+      "Monosaturated Fat": 24.429,
+      "Total": 49.24,
+      "Polysaturated Fat": 15.559
+    },
+    "Water": 6.5,
+    "Lycopene": 0,
+    "Pantothenic Acid": 1.767,
+    "Ash": 2.33,
+    "Alpha Carotene": 0,
+    "Retinol": 0,
+    "Manganese": 1.934,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.135,
+    "Cholesterol": 0,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 567,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup",
+      "FirstHouseholdWeight": 146.0,
+      "SecondHouseholdWeight": 28,
+      "SecondHouseholdWeightDescription": "1 oz"
+    },
+    "Sugar Total": 3.970000029,
+    "Protein": 25.8
+  },
+  "Description": "PEANUTS,ALL TYPES,RAW",
+  "Nutrient Data Bank Number": 16087
+},
+{
+  "Category": "PEANUTS",
+  "Data": {
+    "Niacin": 5.259,
+    "Major Minerals": {
+      "Copper": 0.499,
+      "Iron": 1.01,
+      "Sodium": 751,
+      "Potassium": 180,
+      "Calcium": 55,
+      "Magnesium": 102,
+      "Zinc": 1.83,
+      "Phosphorus": 198
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 0,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 0.0,
+      "Vitamin B6": 0.152,
+      "Vitamin A - RAE": 0,
+      "Vitamin E": 4.1,
+      "Vitamin K": 0.0
+    },
+    "Carboydrate": 21.26,
+    "Selenium": 4.4,
+    "Thiamin": 0.259,
+    "Choline": 33,
+    "Beta Carotene": 0,
+    "Fiber": 8.800000191,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 3.055,
+      "Monosaturated Fat": 10.921,
+      "Total": 22.01,
+      "Polysaturated Fat": 6.956
+    },
+    "Water": 41.78,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.825,
+    "Ash": 1.45,
+    "Alpha Carotene": 0,
+    "Retinol": 0,
+    "Manganese": 1.023,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.063,
+    "Cholesterol": 0,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 318,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup,  in shell, edible yield",
+      "FirstHouseholdWeight": 63.0,
+      "SecondHouseholdWeight": 180,
+      "SecondHouseholdWeightDescription": "1 cup, shelled"
+    },
+    "Sugar Total": 2.470000029,
+    "Protein": 13.5
+  },
+  "Description": "PEANUTS,ALL TYPES,CKD,BLD,W/SALT",
+  "Nutrient Data Bank Number": 16088
+},
+{
+  "Category": "PEANUTS",
+  "Data": {
+    "Niacin": 13.825,
+    "Major Minerals": {
+      "Copper": 0.533,
+      "Iron": 1.52,
+      "Sodium": 320,
+      "Potassium": 726,
+      "Calcium": 61,
+      "Magnesium": 176,
+      "Zinc": 3.28,
+      "Phosphorus": 397
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 0,
+      "Vitamin C": 0.8,
+      "Vitamin B12": 0.0,
+      "Vitamin B6": 0.461,
+      "Vitamin A - RAE": 0,
+      "Vitamin E": 6.94,
+      "Vitamin K": 0.0
+    },
+    "Carboydrate": 15.26,
+    "Selenium": 3.3,
+    "Thiamin": 0.085,
+    "Choline": 55,
+    "Beta Carotene": 0,
+    "Fiber": 9.399999619,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 8.686,
+      "Monosaturated Fat": 25.976,
+      "Total": 52.5,
+      "Polysaturated Fat": 15.292
+    },
+    "Water": 1.45,
+    "Lycopene": 0,
+    "Pantothenic Acid": 1.202,
+    "Ash": 2.75,
+    "Alpha Carotene": 0,
+    "Retinol": 0,
+    "Manganese": 1.845,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.089,
+    "Cholesterol": 0,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 599,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup, chopped",
+      "FirstHouseholdWeight": 144.0,
+      "SecondHouseholdWeight": 144,
+      "SecondHouseholdWeightDescription": "1 cup, halves and whole"
+    },
+    "Sugar Total": 4.179999828,
+    "Protein": 28.03
+  },
+  "Description": "PEANUTS,ALL TYPES,OIL-ROASTED,W/SALT",
+  "Nutrient Data Bank Number": 16089
+},
+{
+  "Category": "PEANUTS",
+  "Data": {
+    "Niacin": 13.525,
+    "Major Minerals": {
+      "Copper": 0.671,
+      "Iron": 2.26,
+      "Sodium": 813,
+      "Potassium": 658,
+      "Calcium": 54,
+      "Magnesium": 176,
+      "Zinc": 3.31,
+      "Phosphorus": 358
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 0,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 0.0,
+      "Vitamin B6": 0.256,
+      "Vitamin A - RAE": 0,
+      "Vitamin E": 7.8,
+      "Vitamin K": 0.0
+    },
+    "Carboydrate": 21.51,
+    "Selenium": 7.5,
+    "Thiamin": 0.438,
+    "Choline": 55,
+    "Beta Carotene": 0,
+    "Fiber": 8.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 6.893,
+      "Monosaturated Fat": 24.64,
+      "Total": 49.66,
+      "Polysaturated Fat": 15.694
+    },
+    "Water": 1.55,
+    "Lycopene": 0,
+    "Pantothenic Acid": 1.395,
+    "Ash": 3.6,
+    "Alpha Carotene": 0,
+    "Retinol": 0,
+    "Manganese": 2.083,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.098,
+    "Cholesterol": 0,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 585,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 oz",
+      "FirstHouseholdWeight": 28.35,
+      "SecondHouseholdWeight": 1,
+      "SecondHouseholdWeightDescription": "1 peanut"
+    },
+    "Sugar Total": 4.179999828,
+    "Protein": 23.68
+  },
+  "Description": "PEANUTS,ALL TYPES,DRY-ROASTED,W/SALT",
+  "Nutrient Data Bank Number": 16090
+},
+{
+  "Category": "PEANUTS",
+  "Data": {
+    "Niacin": 15.925,
+    "Major Minerals": {
+      "Copper": 0.9,
+      "Iron": 3.91,
+      "Sodium": 22,
+      "Potassium": 744,
+      "Calcium": 106,
+      "Magnesium": 188,
+      "Zinc": 2.12,
+      "Phosphorus": 388
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 0,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 0.0,
+      "Vitamin B6": 0.348,
+      "Vitamin A - RAE": 0,
+      "Vitamin E": 0.0,
+      "Vitamin K": 0.0
+    },
+    "Carboydrate": 15.82,
+    "Selenium": 7.2,
+    "Thiamin": 0.675,
+    "Choline": 0,
+    "Beta Carotene": 0,
+    "Fiber": 9.5,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 7.642,
+      "Monosaturated Fat": 22.328,
+      "Total": 49.6,
+      "Polysaturated Fat": 17.204
+    },
+    "Water": 6.39,
+    "Lycopene": 0,
+    "Pantothenic Acid": 1.769,
+    "Ash": 2.03,
+    "Alpha Carotene": 0,
+    "Retinol": 0,
+    "Manganese": 2.64,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.135,
+    "Cholesterol": 0,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 570,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup",
+      "FirstHouseholdWeight": 146.0,
+      "SecondHouseholdWeight": 28,
+      "SecondHouseholdWeightDescription": "1 oz"
+    },
+    "Sugar Total": 0.0,
+    "Protein": 26.15
+  },
+  "Description": "PEANUTS,SPANISH,RAW",
+  "Nutrient Data Bank Number": 16091
+},
+{
+  "Category": "PEANUTS",
+  "Data": {
+    "Niacin": 14.933,
+    "Major Minerals": {
+      "Copper": 0.661,
+      "Iron": 2.28,
+      "Sodium": 433,
+      "Potassium": 776,
+      "Calcium": 100,
+      "Magnesium": 168,
+      "Zinc": 2.0,
+      "Phosphorus": 387
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 0,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 0.0,
+      "Vitamin B6": 0.256,
+      "Vitamin A - RAE": 0,
+      "Vitamin E": 0.0,
+      "Vitamin K": 0.0
+    },
+    "Carboydrate": 17.45,
+    "Selenium": 7.5,
+    "Thiamin": 0.317,
+    "Choline": 0,
+    "Beta Carotene": 0,
+    "Fiber": 8.899999619,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 7.555,
+      "Monosaturated Fat": 22.073,
+      "Total": 49.04,
+      "Polysaturated Fat": 17.008
+    },
+    "Water": 1.78,
+    "Lycopene": 0,
+    "Pantothenic Acid": 1.392,
+    "Ash": 3.72,
+    "Alpha Carotene": 0,
+    "Retinol": 0,
+    "Manganese": 2.355,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.085,
+    "Cholesterol": 0,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 579,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup",
+      "FirstHouseholdWeight": 147.0,
+      "SecondHouseholdWeight": 28,
+      "SecondHouseholdWeightDescription": "1 oz"
+    },
+    "Sugar Total": 0.0,
+    "Protein": 28.01
+  },
+  "Description": "PEANUTS,SPANISH,OIL-ROASTED,W/SALT",
+  "Nutrient Data Bank Number": 16092
+},
+{
+  "Category": "PEANUTS",
+  "Data": {
+    "Niacin": 12.875,
+    "Major Minerals": {
+      "Copper": 1.171,
+      "Iron": 2.09,
+      "Sodium": 1,
+      "Potassium": 332,
+      "Calcium": 62,
+      "Magnesium": 184,
+      "Zinc": 3.34,
+      "Phosphorus": 336
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 0,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 0.0,
+      "Vitamin B6": 0.34,
+      "Vitamin A - RAE": 0,
+      "Vitamin E": 0.0,
+      "Vitamin K": 0.0
+    },
+    "Carboydrate": 20.91,
+    "Selenium": 7.3,
+    "Thiamin": 0.639,
+    "Choline": 0,
+    "Beta Carotene": 0,
+    "Fiber": 8.699999809,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 7.329,
+      "Monosaturated Fat": 21.414,
+      "Total": 47.58,
+      "Polysaturated Fat": 16.5
+    },
+    "Water": 4.26,
+    "Lycopene": 0,
+    "Pantothenic Acid": 1.809,
+    "Ash": 2.17,
+    "Alpha Carotene": 0,
+    "Retinol": 0,
+    "Manganese": 1.98,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.3,
+    "Cholesterol": 0,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 570,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup",
+      "FirstHouseholdWeight": 146.0,
+      "SecondHouseholdWeight": 28,
+      "SecondHouseholdWeightDescription": "1 oz"
+    },
+    "Sugar Total": 0.0,
+    "Protein": 25.09
+  },
+  "Description": "PEANUTS,VALENCIA,RAW",
+  "Nutrient Data Bank Number": 16093
+},
+{
+  "Category": "CHEESE",
+  "Data": {
+    "Niacin": 0.128,
+    "Major Minerals": {
+      "Copper": 0.028,
+      "Iron": 0.14,
+      "Sodium": 406,
+      "Potassium": 86,
+      "Calcium": 61,
+      "Magnesium": 5,
+      "Zinc": 0.38,
+      "Phosphorus": 134
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 41,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 0.63,
+      "Vitamin B6": 0.068,
+      "Vitamin A - RAE": 11,
+      "Vitamin E": 0.01,
+      "Vitamin K": 0.1
+    },
+    "Carboydrate": 2.72,
+    "Selenium": 9.0,
+    "Thiamin": 0.021,
+    "Choline": 18,
+    "Beta Carotene": 3,
+    "Fiber": 0.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 0.645,
+      "Monosaturated Fat": 0.291,
+      "Total": 1.02,
+      "Polysaturated Fat": 0.031
+    },
+    "Water": 82.48,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.215,
+    "Ash": 1.39,
+    "Alpha Carotene": 0,
+    "Retinol": 11,
+    "Manganese": 0.003,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.165,
+    "Cholesterol": 4,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 72,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup,  (not packed)",
+      "FirstHouseholdWeight": 226.0,
+      "SecondHouseholdWeight": 113,
+      "SecondHouseholdWeightDescription": "4 oz"
+    },
+    "Sugar Total": 2.720000029,
+    "Protein": 12.39
+  },
+  "Description": "CHEESE,COTTAGE,LOWFAT,1% MILKFAT",
+  "Nutrient Data Bank Number": 1016
+},
+{
+  "Category": "CHEESE",
+  "Data": {
+    "Niacin": 0.145,
+    "Major Minerals": {
+      "Copper": 0.019,
+      "Iron": 0.38,
+      "Sodium": 321,
+      "Potassium": 138,
+      "Calcium": 98,
+      "Magnesium": 9,
+      "Zinc": 0.51,
+      "Phosphorus": 106
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 1265,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 0.25,
+      "Vitamin B6": 0.035,
+      "Vitamin A - RAE": 362,
+      "Vitamin E": 0.65,
+      "Vitamin K": 3.4
+    },
+    "Carboydrate": 4.07,
+    "Selenium": 2.4,
+    "Thiamin": 0.02,
+    "Choline": 27,
+    "Beta Carotene": 41,
+    "Fiber": 0.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 19.292,
+      "Monosaturated Fat": 8.62,
+      "Total": 34.24,
+      "Polysaturated Fat": 1.437
+    },
+    "Water": 54.44,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.57,
+    "Ash": 1.32,
+    "Alpha Carotene": 0,
+    "Retinol": 359,
+    "Manganese": 0.011,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.125,
+    "Cholesterol": 110,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 342,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup",
+      "FirstHouseholdWeight": 232.0,
+      "SecondHouseholdWeight": 14,
+      "SecondHouseholdWeightDescription": "1 tbsp"
+    },
+    "Sugar Total": 3.210000038,
+    "Protein": 5.93
+  },
+  "Description": "CHEESE,CREAM",
+  "Nutrient Data Bank Number": 1017
+},
+{
+  "Category": "CHEESE",
+  "Data": {
+    "Niacin": 0.082,
+    "Major Minerals": {
+      "Copper": 0.036,
+      "Iron": 0.44,
+      "Sodium": 965,
+      "Potassium": 188,
+      "Calcium": 731,
+      "Magnesium": 30,
+      "Zinc": 3.75,
+      "Phosphorus": 536
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 825,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 1.54,
+      "Vitamin B6": 0.076,
+      "Vitamin A - RAE": 243,
+      "Vitamin E": 0.24,
+      "Vitamin K": 2.3
+    },
+    "Carboydrate": 1.43,
+    "Selenium": 14.5,
+    "Thiamin": 0.037,
+    "Choline": 15,
+    "Beta Carotene": 11,
+    "Fiber": 0.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 17.572,
+      "Monosaturated Fat": 8.125,
+      "Total": 27.8,
+      "Polysaturated Fat": 0.665
+    },
+    "Water": 41.56,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.281,
+    "Ash": 4.22,
+    "Alpha Carotene": 0,
+    "Retinol": 242,
+    "Manganese": 0.011,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.389,
+    "Cholesterol": 89,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 357,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 oz",
+      "FirstHouseholdWeight": 28.35,
+      "SecondHouseholdWeight": 198,
+      "SecondHouseholdWeightDescription": "1 package,  (7 oz)"
+    },
+    "Sugar Total": 1.429999948,
+    "Protein": 24.99
+  },
+  "Description": "CHEESE,EDAM",
+  "Nutrient Data Bank Number": 1018
+},
+{
+  "Category": "CHEESE",
+  "Data": {
+    "Niacin": 0.991,
+    "Major Minerals": {
+      "Copper": 0.032,
+      "Iron": 0.65,
+      "Sodium": 1116,
+      "Potassium": 62,
+      "Calcium": 493,
+      "Magnesium": 19,
+      "Zinc": 2.88,
+      "Phosphorus": 337
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 422,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 1.69,
+      "Vitamin B6": 0.424,
+      "Vitamin A - RAE": 125,
+      "Vitamin E": 0.18,
+      "Vitamin K": 1.8
+    },
+    "Carboydrate": 4.09,
+    "Selenium": 15.0,
+    "Thiamin": 0.154,
+    "Choline": 15,
+    "Beta Carotene": 3,
+    "Fiber": 0.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 14.946,
+      "Monosaturated Fat": 4.623,
+      "Total": 21.28,
+      "Polysaturated Fat": 0.591
+    },
+    "Water": 55.22,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.967,
+    "Ash": 5.2,
+    "Alpha Carotene": 0,
+    "Retinol": 125,
+    "Manganese": 0.028,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.844,
+    "Cholesterol": 89,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 264,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup, crumbled",
+      "FirstHouseholdWeight": 150.0,
+      "SecondHouseholdWeight": 28,
+      "SecondHouseholdWeightDescription": "1 oz"
+    },
+    "Sugar Total": 4.090000153,
+    "Protein": 14.21
+  },
+  "Description": "CHEESE,FETA",
+  "Nutrient Data Bank Number": 1019
+},
+{
+  "Category": "CHEESE",
+  "Data": {
+    "Niacin": 0.15,
+    "Major Minerals": {
+      "Copper": 0.025,
+      "Iron": 0.23,
+      "Sodium": 800,
+      "Potassium": 64,
+      "Calcium": 550,
+      "Magnesium": 14,
+      "Zinc": 3.5,
+      "Phosphorus": 346
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 913,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 1.68,
+      "Vitamin B6": 0.083,
+      "Vitamin A - RAE": 261,
+      "Vitamin E": 0.27,
+      "Vitamin K": 2.6
+    },
+    "Carboydrate": 1.55,
+    "Selenium": 14.5,
+    "Thiamin": 0.021,
+    "Choline": 15,
+    "Beta Carotene": 32,
+    "Fiber": 0.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 19.196,
+      "Monosaturated Fat": 8.687,
+      "Total": 31.14,
+      "Polysaturated Fat": 1.654
+    },
+    "Water": 37.92,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.429,
+    "Ash": 3.79,
+    "Alpha Carotene": 0,
+    "Retinol": 258,
+    "Manganese": 0.014,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.204,
+    "Cholesterol": 116,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 389,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup, diced",
+      "FirstHouseholdWeight": 132.0,
+      "SecondHouseholdWeight": 108,
+      "SecondHouseholdWeightDescription": "1 cup, shredded"
+    },
+    "Sugar Total": 1.549999952,
+    "Protein": 25.6
+  },
+  "Description": "CHEESE,FONTINA",
+  "Nutrient Data Bank Number": 1020
+},
+{
+  "Category": "CHEESE",
+  "Data": {
+    "Niacin": 0.813,
+    "Major Minerals": {
+      "Copper": 0.08,
+      "Iron": 0.52,
+      "Sodium": 600,
+      "Potassium": 1409,
+      "Calcium": 400,
+      "Magnesium": 70,
+      "Zinc": 1.14,
+      "Phosphorus": 444
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 1113,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 2.42,
+      "Vitamin B6": 0.271,
+      "Vitamin A - RAE": 334,
+      "Vitamin E": 0.0,
+      "Vitamin K": 0.0
+    },
+    "Carboydrate": 42.65,
+    "Selenium": 14.5,
+    "Thiamin": 0.315,
+    "Choline": 0,
+    "Beta Carotene": 0,
+    "Fiber": 0.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 19.16,
+      "Monosaturated Fat": 7.879,
+      "Total": 29.51,
+      "Polysaturated Fat": 0.938
+    },
+    "Water": 13.44,
+    "Lycopene": 0,
+    "Pantothenic Acid": 3.351,
+    "Ash": 4.75,
+    "Alpha Carotene": 0,
+    "Retinol": 334,
+    "Manganese": 0.04,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 1.382,
+    "Cholesterol": 94,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 466,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 oz",
+      "FirstHouseholdWeight": 28.35,
+      "SecondHouseholdWeight": 227,
+      "SecondHouseholdWeightDescription": "1 package,  (8 oz)"
+    },
+    "Sugar Total": 0.0,
+    "Protein": 9.65
+  },
+  "Description": "CHEESE,GJETOST",
+  "Nutrient Data Bank Number": 1021
+},
+{
+  "Category": "CHEESE",
+  "Data": {
+    "Niacin": 0.063,
+    "Major Minerals": {
+      "Copper": 0.036,
+      "Iron": 0.24,
+      "Sodium": 819,
+      "Potassium": 121,
+      "Calcium": 700,
+      "Magnesium": 29,
+      "Zinc": 3.9,
+      "Phosphorus": 546
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 563,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 1.54,
+      "Vitamin B6": 0.08,
+      "Vitamin A - RAE": 165,
+      "Vitamin E": 0.24,
+      "Vitamin K": 2.3
+    },
+    "Carboydrate": 2.22,
+    "Selenium": 14.5,
+    "Thiamin": 0.03,
+    "Choline": 15,
+    "Beta Carotene": 10,
+    "Fiber": 0.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 17.614,
+      "Monosaturated Fat": 7.747,
+      "Total": 27.44,
+      "Polysaturated Fat": 0.657
+    },
+    "Water": 41.46,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.34,
+    "Ash": 3.94,
+    "Alpha Carotene": 0,
+    "Retinol": 164,
+    "Manganese": 0.011,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.334,
+    "Cholesterol": 114,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 356,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 oz",
+      "FirstHouseholdWeight": 28.35,
+      "SecondHouseholdWeight": 198,
+      "SecondHouseholdWeightDescription": "1 package,  (7 oz)"
+    },
+    "Sugar Total": 2.220000029,
+    "Protein": 24.94
+  },
+  "Description": "CHEESE,GOUDA",
+  "Nutrient Data Bank Number": 1022
+},
+{
+  "Category": "CHEESE",
+  "Data": {
+    "Niacin": 0.106,
+    "Major Minerals": {
+      "Copper": 0.032,
+      "Iron": 0.17,
+      "Sodium": 336,
+      "Potassium": 81,
+      "Calcium": 1011,
+      "Magnesium": 36,
+      "Zinc": 3.9,
+      "Phosphorus": 605
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 948,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 1.6,
+      "Vitamin B6": 0.081,
+      "Vitamin A - RAE": 271,
+      "Vitamin E": 0.28,
+      "Vitamin K": 2.7
+    },
+    "Carboydrate": 0.36,
+    "Selenium": 14.5,
+    "Thiamin": 0.06,
+    "Choline": 15,
+    "Beta Carotene": 33,
+    "Fiber": 0.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 18.913,
+      "Monosaturated Fat": 10.043,
+      "Total": 32.34,
+      "Polysaturated Fat": 1.733
+    },
+    "Water": 33.19,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.562,
+    "Ash": 4.3,
+    "Alpha Carotene": 0,
+    "Retinol": 268,
+    "Manganese": 0.017,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.279,
+    "Cholesterol": 110,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 413,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup, diced",
+      "FirstHouseholdWeight": 132.0,
+      "SecondHouseholdWeight": 108,
+      "SecondHouseholdWeightDescription": "1 cup, shredded"
+    },
+    "Sugar Total": 0.360000014,
+    "Protein": 29.81
+  },
+  "Description": "CHEESE,GRUYERE",
+  "Nutrient Data Bank Number": 1023
+},
+{
+  "Category": "CHEESE",
+  "Data": {
+    "Niacin": 0.158,
+    "Major Minerals": {
+      "Copper": 0.021,
+      "Iron": 0.13,
+      "Sodium": 800,
+      "Potassium": 128,
+      "Calcium": 497,
+      "Magnesium": 21,
+      "Zinc": 2.1,
+      "Phosphorus": 393
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 1155,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 1.04,
+      "Vitamin B6": 0.086,
+      "Vitamin A - RAE": 340,
+      "Vitamin E": 0.23,
+      "Vitamin K": 2.3
+    },
+    "Carboydrate": 0.49,
+    "Selenium": 14.5,
+    "Thiamin": 0.08,
+    "Choline": 15,
+    "Beta Carotene": 15,
+    "Fiber": 0.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 16.746,
+      "Monosaturated Fat": 8.606,
+      "Total": 27.25,
+      "Polysaturated Fat": 0.495
+    },
+    "Water": 48.42,
+    "Lycopene": 0,
+    "Pantothenic Acid": 1.177,
+    "Ash": 3.79,
+    "Alpha Carotene": 0,
+    "Retinol": 339,
+    "Manganese": 0.038,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.503,
+    "Cholesterol": 90,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 327,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup",
+      "FirstHouseholdWeight": 134.0,
+      "SecondHouseholdWeight": 28,
+      "SecondHouseholdWeightDescription": "1 oz"
+    },
+    "Sugar Total": 0.49000001,
+    "Protein": 20.05
+  },
+  "Description": "CHEESE,LIMBURGER",
+  "Nutrient Data Bank Number": 1024
+},
+{
+  "Category": "CHEESE",
+  "Data": {
+    "Niacin": 0.093,
+    "Major Minerals": {
+      "Copper": 0.032,
+      "Iron": 0.72,
+      "Sodium": 536,
+      "Potassium": 81,
+      "Calcium": 746,
+      "Magnesium": 27,
+      "Zinc": 3.0,
+      "Phosphorus": 444
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 769,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 0.83,
+      "Vitamin B6": 0.079,
+      "Vitamin A - RAE": 198,
+      "Vitamin E": 0.26,
+      "Vitamin K": 2.5
+    },
+    "Carboydrate": 0.68,
+    "Selenium": 14.5,
+    "Thiamin": 0.015,
+    "Choline": 15,
+    "Beta Carotene": 78,
+    "Fiber": 0.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 19.066,
+      "Monosaturated Fat": 8.751,
+      "Total": 30.28,
+      "Polysaturated Fat": 0.899
+    },
+    "Water": 41.01,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.21,
+    "Ash": 3.55,
+    "Alpha Carotene": 0,
+    "Retinol": 192,
+    "Manganese": 0.011,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.39,
+    "Cholesterol": 89,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 373,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup, diced",
+      "FirstHouseholdWeight": 132.0,
+      "SecondHouseholdWeight": 113,
+      "SecondHouseholdWeightDescription": "1 cup, shredded"
+    },
+    "Sugar Total": 0.5,
+    "Protein": 24.48
+  },
+  "Description": "CHEESE,MONTEREY",
+  "Nutrient Data Bank Number": 1025
+},
+{
+  "Category": "CHEESE",
+  "Data": {
+    "Niacin": 0.104,
+    "Major Minerals": {
+      "Copper": 0.011,
+      "Iron": 0.44,
+      "Sodium": 627,
+      "Potassium": 76,
+      "Calcium": 505,
+      "Magnesium": 20,
+      "Zinc": 2.92,
+      "Phosphorus": 354
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 676,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 2.28,
+      "Vitamin B6": 0.037,
+      "Vitamin A - RAE": 179,
+      "Vitamin E": 0.19,
+      "Vitamin K": 2.3
+    },
+    "Carboydrate": 2.19,
+    "Selenium": 17.0,
+    "Thiamin": 0.03,
+    "Choline": 15,
+    "Beta Carotene": 57,
+    "Fiber": 0.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 13.152,
+      "Monosaturated Fat": 6.573,
+      "Total": 22.35,
+      "Polysaturated Fat": 0.765
+    },
+    "Water": 50.01,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.141,
+    "Ash": 3.28,
+    "Alpha Carotene": 0,
+    "Retinol": 174,
+    "Manganese": 0.03,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.283,
+    "Cholesterol": 79,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 300,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup, shredded",
+      "FirstHouseholdWeight": 112.0,
+      "SecondHouseholdWeight": 28,
+      "SecondHouseholdWeightDescription": "1 oz"
+    },
+    "Sugar Total": 1.029999971,
+    "Protein": 22.17
+  },
+  "Description": "CHEESE,MOZZARELLA,WHL MILK",
+  "Nutrient Data Bank Number": 1026
+},
+{
+  "Category": "CHEESE",
+  "Data": {
+    "Niacin": 0.094,
+    "Major Minerals": {
+      "Copper": 0.022,
+      "Iron": 0.2,
+      "Sodium": 415,
+      "Potassium": 75,
+      "Calcium": 575,
+      "Magnesium": 21,
+      "Zinc": 2.46,
+      "Phosphorus": 412
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 745,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 0.73,
+      "Vitamin B6": 0.062,
+      "Vitamin A - RAE": 197,
+      "Vitamin E": 0.21,
+      "Vitamin K": 2.5
+    },
+    "Carboydrate": 2.47,
+    "Selenium": 16.1,
+    "Thiamin": 0.016,
+    "Choline": 15,
+    "Beta Carotene": 63,
+    "Fiber": 0.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 15.561,
+      "Monosaturated Fat": 7.027,
+      "Total": 24.64,
+      "Polysaturated Fat": 0.778
+    },
+    "Water": 48.38,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.071,
+    "Ash": 2.91,
+    "Alpha Carotene": 0,
+    "Retinol": 192,
+    "Manganese": 0.009,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.27,
+    "Cholesterol": 89,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 318,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 oz",
+      "FirstHouseholdWeight": 28.35,
+      "SecondHouseholdWeight": 18,
+      "SecondHouseholdWeightDescription": "1 cubic inch"
+    },
+    "Sugar Total": 1.00999999,
+    "Protein": 21.6
+  },
+  "Description": "CHEESE,MOZZARELLA,WHL MILK,LO MOIST",
+  "Nutrient Data Bank Number": 1027
+},
+{
+  "Category": "CHEESE",
+  "Data": {
+    "Niacin": 0.105,
+    "Major Minerals": {
+      "Copper": 0.025,
+      "Iron": 0.22,
+      "Sodium": 619,
+      "Potassium": 84,
+      "Calcium": 782,
+      "Magnesium": 23,
+      "Zinc": 2.76,
+      "Phosphorus": 463
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 481,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 0.82,
+      "Vitamin B6": 0.07,
+      "Vitamin A - RAE": 127,
+      "Vitamin E": 0.14,
+      "Vitamin K": 1.6
+    },
+    "Carboydrate": 2.77,
+    "Selenium": 14.4,
+    "Thiamin": 0.018,
+    "Choline": 15,
+    "Beta Carotene": 41,
+    "Fiber": 0.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 10.114,
+      "Monosaturated Fat": 4.51,
+      "Total": 15.92,
+      "Polysaturated Fat": 0.472
+    },
+    "Water": 53.78,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.079,
+    "Ash": 3.27,
+    "Alpha Carotene": 0,
+    "Retinol": 124,
+    "Manganese": 0.01,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.303,
+    "Cholesterol": 64,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 254,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 oz",
+      "FirstHouseholdWeight": 28.35,
+      "SecondHouseholdWeight": 0,
+      "SecondHouseholdWeightDescription": ""
+    },
+    "Sugar Total": 1.129999995,
+    "Protein": 24.26
+  },
+  "Description": "CHEESE,MOZZARELLA,PART SKIM MILK",
+  "Nutrient Data Bank Number": 1028
+},
+{
+  "Category": "CHEESE",
+  "Data": {
+    "Niacin": 0.119,
+    "Major Minerals": {
+      "Copper": 0.027,
+      "Iron": 0.25,
+      "Sodium": 528,
+      "Potassium": 95,
+      "Calcium": 731,
+      "Magnesium": 26,
+      "Zinc": 3.13,
+      "Phosphorus": 524
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 517,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 2.31,
+      "Vitamin B6": 0.079,
+      "Vitamin A - RAE": 137,
+      "Vitamin E": 0.37,
+      "Vitamin K": 1.3
+    },
+    "Carboydrate": 3.83,
+    "Selenium": 16.3,
+    "Thiamin": 0.101,
+    "Choline": 14,
+    "Beta Carotene": 44,
+    "Fiber": 0.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 12.67,
+      "Monosaturated Fat": 5.73,
+      "Total": 20.03,
+      "Polysaturated Fat": 0.626
+    },
+    "Water": 46.46,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.09,
+    "Ash": 3.72,
+    "Alpha Carotene": 0,
+    "Retinol": 133,
+    "Manganese": 0.011,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.329,
+    "Cholesterol": 54,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 302,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup, diced",
+      "FirstHouseholdWeight": 132.0,
+      "SecondHouseholdWeight": 113,
+      "SecondHouseholdWeightDescription": "1 cup, shredded"
+    },
+    "Sugar Total": 0.600000024,
+    "Protein": 25.96
+  },
+  "Description": "CHEESE,MOZZARELLA,PART SKIM MILK,LO MOIST",
+  "Nutrient Data Bank Number": 1029
+},
+{
+  "Category": "CHEESE",
+  "Data": {
+    "Niacin": 0.103,
+    "Major Minerals": {
+      "Copper": 0.031,
+      "Iron": 0.41,
+      "Sodium": 628,
+      "Potassium": 134,
+      "Calcium": 717,
+      "Magnesium": 27,
+      "Zinc": 2.81,
+      "Phosphorus": 468
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 1012,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 1.47,
+      "Vitamin B6": 0.056,
+      "Vitamin A - RAE": 298,
+      "Vitamin E": 0.26,
+      "Vitamin K": 2.5
+    },
+    "Carboydrate": 1.12,
+    "Selenium": 14.5,
+    "Thiamin": 0.013,
+    "Choline": 15,
+    "Beta Carotene": 13,
+    "Fiber": 0.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 19.113,
+      "Monosaturated Fat": 8.711,
+      "Total": 30.04,
+      "Polysaturated Fat": 0.661
+    },
+    "Water": 41.77,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.19,
+    "Ash": 3.66,
+    "Alpha Carotene": 0,
+    "Retinol": 297,
+    "Manganese": 0.008,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.32,
+    "Cholesterol": 96,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 368,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup, diced",
+      "FirstHouseholdWeight": 132.0,
+      "SecondHouseholdWeight": 113,
+      "SecondHouseholdWeightDescription": "1 cup, shredded"
+    },
+    "Sugar Total": 1.120000005,
+    "Protein": 23.41
+  },
+  "Description": "CHEESE,MUENSTER",
+  "Nutrient Data Bank Number": 1030
+},
+{
+  "Category": "CHEESE",
+  "Data": {
+    "Niacin": 0.21,
+    "Major Minerals": {
+      "Copper": 0.027,
+      "Iron": 0.13,
+      "Sodium": 334,
+      "Potassium": 152,
+      "Calcium": 117,
+      "Magnesium": 10,
+      "Zinc": 0.82,
+      "Phosphorus": 138
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 841,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 0.3,
+      "Vitamin B6": 0.041,
+      "Vitamin A - RAE": 241,
+      "Vitamin E": 0.4,
+      "Vitamin K": 1.7
+    },
+    "Carboydrate": 3.59,
+    "Selenium": 3.0,
+    "Thiamin": 0.022,
+    "Choline": 0,
+    "Beta Carotene": 27,
+    "Fiber": 0.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 12.79,
+      "Monosaturated Fat": 5.784,
+      "Total": 22.78,
+      "Polysaturated Fat": 0.97
+    },
+    "Water": 63.11,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.575,
+    "Ash": 1.37,
+    "Alpha Carotene": 0,
+    "Retinol": 239,
+    "Manganese": 0.011,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.155,
+    "Cholesterol": 74,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 253,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 oz",
+      "FirstHouseholdWeight": 28.35,
+      "SecondHouseholdWeight": 85,
+      "SecondHouseholdWeightDescription": "1 package,  (3 oz)"
+    },
+    "Sugar Total": 3.190000057,
+    "Protein": 9.15
+  },
+  "Description": "CHEESE,NEUFCHATEL",
+  "Nutrient Data Bank Number": 1031
+},
+{
+  "Category": "CHEESE",
+  "Data": {
+    "Niacin": 0.114,
+    "Major Minerals": {
+      "Copper": 0.238,
+      "Iron": 0.9,
+      "Sodium": 1529,
+      "Potassium": 125,
+      "Calcium": 1109,
+      "Magnesium": 38,
+      "Zinc": 3.87,
+      "Phosphorus": 729
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 442,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 2.26,
+      "Vitamin B6": 0.049,
+      "Vitamin A - RAE": 120,
+      "Vitamin E": 0.26,
+      "Vitamin K": 1.9
+    },
+    "Carboydrate": 4.06,
+    "Selenium": 17.7,
+    "Thiamin": 0.029,
+    "Choline": 15,
+    "Beta Carotene": 31,
+    "Fiber": 0.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 17.301,
+      "Monosaturated Fat": 8.375,
+      "Total": 28.61,
+      "Polysaturated Fat": 1.173
+    },
+    "Water": 20.84,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.325,
+    "Ash": 8.03,
+    "Alpha Carotene": 0,
+    "Retinol": 117,
+    "Manganese": 0.085,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.486,
+    "Cholesterol": 88,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 431,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup",
+      "FirstHouseholdWeight": 100.0,
+      "SecondHouseholdWeight": 5,
+      "SecondHouseholdWeightDescription": "1 tbsp"
+    },
+    "Sugar Total": 0.899999976,
+    "Protein": 38.46
+  },
+  "Description": "CHEESE,PARMESAN,GRATED",
+  "Nutrient Data Bank Number": 1032
+},
+{
+  "Category": "CHEESE",
+  "Data": {
+    "Niacin": 0.271,
+    "Major Minerals": {
+      "Copper": 0.032,
+      "Iron": 0.82,
+      "Sodium": 1602,
+      "Potassium": 92,
+      "Calcium": 1184,
+      "Magnesium": 44,
+      "Zinc": 2.75,
+      "Phosphorus": 694
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 399,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 1.2,
+      "Vitamin B6": 0.091,
+      "Vitamin A - RAE": 108,
+      "Vitamin E": 0.23,
+      "Vitamin K": 1.7
+    },
+    "Carboydrate": 3.22,
+    "Selenium": 22.5,
+    "Thiamin": 0.039,
+    "Choline": 15,
+    "Beta Carotene": 28,
+    "Fiber": 0.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 16.41,
+      "Monosaturated Fat": 7.515,
+      "Total": 25.83,
+      "Polysaturated Fat": 0.569
+    },
+    "Water": 29.16,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.453,
+    "Ash": 6.04,
+    "Alpha Carotene": 0,
+    "Retinol": 106,
+    "Manganese": 0.02,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.332,
+    "Cholesterol": 68,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 392,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 oz",
+      "FirstHouseholdWeight": 28.35,
+      "SecondHouseholdWeight": 10,
+      "SecondHouseholdWeightDescription": "1 cubic inch"
+    },
+    "Sugar Total": 0.800000012,
+    "Protein": 35.75
+  },
+  "Description": "CHEESE,PARMESAN,HARD",
+  "Nutrient Data Bank Number": 1033
+},
+{
+  "Category": "CHEESE",
+  "Data": {
+    "Niacin": 0.06,
+    "Major Minerals": {
+      "Copper": 0.022,
+      "Iron": 0.43,
+      "Sodium": 534,
+      "Potassium": 136,
+      "Calcium": 650,
+      "Magnesium": 24,
+      "Zinc": 2.6,
+      "Phosphorus": 360
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 1092,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 1.5,
+      "Vitamin B6": 0.053,
+      "Vitamin A - RAE": 315,
+      "Vitamin E": 0.24,
+      "Vitamin K": 2.4
+    },
+    "Carboydrate": 0.57,
+    "Selenium": 14.5,
+    "Thiamin": 0.014,
+    "Choline": 15,
+    "Beta Carotene": 29,
+    "Fiber": 0.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 16.691,
+      "Monosaturated Fat": 9.338,
+      "Total": 28.2,
+      "Polysaturated Fat": 0.729
+    },
+    "Water": 45.45,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.21,
+    "Ash": 2.0,
+    "Alpha Carotene": 0,
+    "Retinol": 313,
+    "Manganese": 0.011,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.24,
+    "Cholesterol": 123,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 352,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup, diced",
+      "FirstHouseholdWeight": 132.0,
+      "SecondHouseholdWeight": 113,
+      "SecondHouseholdWeightDescription": "1 cup, shredded"
+    },
+    "Sugar Total": 0.569999993,
+    "Protein": 23.78
+  },
+  "Description": "CHEESE,PORT DE SALUT",
+  "Nutrient Data Bank Number": 1034
+},
+{
+  "Category": "CHEESE",
+  "Data": {
+    "Niacin": 0.156,
+    "Major Minerals": {
+      "Copper": 0.026,
+      "Iron": 0.52,
+      "Sodium": 876,
+      "Potassium": 138,
+      "Calcium": 756,
+      "Magnesium": 28,
+      "Zinc": 3.23,
+      "Phosphorus": 496
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 880,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 1.46,
+      "Vitamin B6": 0.073,
+      "Vitamin A - RAE": 236,
+      "Vitamin E": 0.23,
+      "Vitamin K": 2.2
+    },
+    "Carboydrate": 2.14,
+    "Selenium": 14.5,
+    "Thiamin": 0.019,
+    "Choline": 15,
+    "Beta Carotene": 68,
+    "Fiber": 0.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 17.078,
+      "Monosaturated Fat": 7.393,
+      "Total": 26.62,
+      "Polysaturated Fat": 0.769
+    },
+    "Water": 40.95,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.476,
+    "Ash": 4.71,
+    "Alpha Carotene": 0,
+    "Retinol": 230,
+    "Manganese": 0.01,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.321,
+    "Cholesterol": 69,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 351,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup, diced",
+      "FirstHouseholdWeight": 132.0,
+      "SecondHouseholdWeight": 28,
+      "SecondHouseholdWeightDescription": "1 oz"
+    },
+    "Sugar Total": 0.560000002,
+    "Protein": 25.58
+  },
+  "Description": "CHEESE,PROVOLONE",
+  "Nutrient Data Bank Number": 1035
+},
+{
+  "Category": "CHEESE",
+  "Data": {
+    "Niacin": 0.104,
+    "Major Minerals": {
+      "Copper": 0.021,
+      "Iron": 0.38,
+      "Sodium": 84,
+      "Potassium": 105,
+      "Calcium": 207,
+      "Magnesium": 11,
+      "Zinc": 1.16,
+      "Phosphorus": 158
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 445,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 0.34,
+      "Vitamin B6": 0.043,
+      "Vitamin A - RAE": 120,
+      "Vitamin E": 0.11,
+      "Vitamin K": 1.1
+    },
+    "Carboydrate": 3.04,
+    "Selenium": 14.5,
+    "Thiamin": 0.013,
+    "Choline": 18,
+    "Beta Carotene": 33,
+    "Fiber": 0.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 8.295,
+      "Monosaturated Fat": 3.627,
+      "Total": 12.98,
+      "Polysaturated Fat": 0.385
+    },
+    "Water": 71.7,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.213,
+    "Ash": 1.02,
+    "Alpha Carotene": 0,
+    "Retinol": 117,
+    "Manganese": 0.006,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.195,
+    "Cholesterol": 51,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 174,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup",
+      "FirstHouseholdWeight": 246.0,
+      "SecondHouseholdWeight": 124,
+      "SecondHouseholdWeightDescription": ".5 cup"
+    },
+    "Sugar Total": 0.270000011,
+    "Protein": 11.26
+  },
+  "Description": "CHEESE,RICOTTA,WHOLE MILK",
+  "Nutrient Data Bank Number": 1036
+},
+{
+  "Category": "CHEESE",
+  "Data": {
+    "Niacin": 0.078,
+    "Major Minerals": {
+      "Copper": 0.034,
+      "Iron": 0.44,
+      "Sodium": 125,
+      "Potassium": 125,
+      "Calcium": 272,
+      "Magnesium": 15,
+      "Zinc": 1.34,
+      "Phosphorus": 183
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 384,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 0.29,
+      "Vitamin B6": 0.02,
+      "Vitamin A - RAE": 107,
+      "Vitamin E": 0.07,
+      "Vitamin K": 0.7
+    },
+    "Carboydrate": 5.14,
+    "Selenium": 16.7,
+    "Thiamin": 0.021,
+    "Choline": 18,
+    "Beta Carotene": 20,
+    "Fiber": 0.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 4.927,
+      "Monosaturated Fat": 2.314,
+      "Total": 7.91,
+      "Polysaturated Fat": 0.26
+    },
+    "Water": 74.41,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.242,
+    "Ash": 1.15,
+    "Alpha Carotene": 0,
+    "Retinol": 105,
+    "Manganese": 0.01,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.185,
+    "Cholesterol": 31,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 138,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup",
+      "FirstHouseholdWeight": 246.0,
+      "SecondHouseholdWeight": 28,
+      "SecondHouseholdWeightDescription": "1 oz"
+    },
+    "Sugar Total": 0.310000002,
+    "Protein": 11.39
+  },
+  "Description": "CHEESE,RICOTTA,PART SKIM MILK",
+  "Nutrient Data Bank Number": 1037
+},
+{
+  "Category": "CHEESE",
+  "Data": {
+    "Niacin": 0.077,
+    "Major Minerals": {
+      "Copper": 0.03,
+      "Iron": 0.77,
+      "Sodium": 1200,
+      "Potassium": 86,
+      "Calcium": 1064,
+      "Magnesium": 41,
+      "Zinc": 2.58,
+      "Phosphorus": 760
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 415,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 1.12,
+      "Vitamin B6": 0.085,
+      "Vitamin A - RAE": 96,
+      "Vitamin E": 0.23,
+      "Vitamin K": 2.2
+    },
+    "Carboydrate": 3.63,
+    "Selenium": 14.5,
+    "Thiamin": 0.037,
+    "Choline": 15,
+    "Beta Carotene": 69,
+    "Fiber": 0.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 17.115,
+      "Monosaturated Fat": 7.838,
+      "Total": 26.94,
+      "Polysaturated Fat": 0.593
+    },
+    "Water": 30.91,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.424,
+    "Ash": 6.72,
+    "Alpha Carotene": 0,
+    "Retinol": 90,
+    "Manganese": 0.02,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.37,
+    "Cholesterol": 104,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 387,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 oz",
+      "FirstHouseholdWeight": 28.35,
+      "SecondHouseholdWeight": 142,
+      "SecondHouseholdWeightDescription": "5 package,  (5 oz)"
+    },
+    "Sugar Total": 0.730000019,
+    "Protein": 31.8
+  },
+  "Description": "CHEESE,ROMANO",
+  "Nutrient Data Bank Number": 1038
+},
+{
+  "Category": "CHEESE",
+  "Data": {
+    "Niacin": 0.734,
+    "Major Minerals": {
+      "Copper": 0.034,
+      "Iron": 0.56,
+      "Sodium": 1809,
+      "Potassium": 91,
+      "Calcium": 662,
+      "Magnesium": 30,
+      "Zinc": 2.08,
+      "Phosphorus": 392
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 1047,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 0.64,
+      "Vitamin B6": 0.124,
+      "Vitamin A - RAE": 294,
+      "Vitamin E": 0.0,
+      "Vitamin K": 0.0
+    },
+    "Carboydrate": 2.0,
+    "Selenium": 14.5,
+    "Thiamin": 0.04,
+    "Choline": 0,
+    "Beta Carotene": 0,
+    "Fiber": 0.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 19.263,
+      "Monosaturated Fat": 8.474,
+      "Total": 30.64,
+      "Polysaturated Fat": 1.32
+    },
+    "Water": 39.38,
+    "Lycopene": 0,
+    "Pantothenic Acid": 1.731,
+    "Ash": 6.44,
+    "Alpha Carotene": 0,
+    "Retinol": 290,
+    "Manganese": 0.03,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.586,
+    "Cholesterol": 90,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 369,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 oz",
+      "FirstHouseholdWeight": 28.35,
+      "SecondHouseholdWeight": 85,
+      "SecondHouseholdWeightDescription": "1 package,  (3 oz)"
+    },
+    "Sugar Total": 0.0,
+    "Protein": 21.54
+  },
+  "Description": "CHEESE,ROQUEFORT",
+  "Nutrient Data Bank Number": 1039
+},
+{
+  "Category": "CHEESE",
+  "Data": {
+    "Niacin": 0.092,
+    "Major Minerals": {
+      "Copper": 0.043,
+      "Iron": 0.2,
+      "Sodium": 192,
+      "Potassium": 77,
+      "Calcium": 791,
+      "Magnesium": 38,
+      "Zinc": 4.36,
+      "Phosphorus": 567
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 830,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 3.34,
+      "Vitamin B6": 0.083,
+      "Vitamin A - RAE": 220,
+      "Vitamin E": 0.38,
+      "Vitamin K": 2.5
+    },
+    "Carboydrate": 5.38,
+    "Selenium": 18.2,
+    "Thiamin": 0.063,
+    "Choline": 16,
+    "Beta Carotene": 70,
+    "Fiber": 0.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 17.779,
+      "Monosaturated Fat": 7.274,
+      "Total": 27.8,
+      "Polysaturated Fat": 0.972
+    },
+    "Water": 37.12,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.429,
+    "Ash": 2.77,
+    "Alpha Carotene": 0,
+    "Retinol": 214,
+    "Manganese": 0.005,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.296,
+    "Cholesterol": 92,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 380,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup, diced",
+      "FirstHouseholdWeight": 132.0,
+      "SecondHouseholdWeight": 244,
+      "SecondHouseholdWeightDescription": "1 cup, melted"
+    },
+    "Sugar Total": 1.320000052,
+    "Protein": 26.93
+  },
+  "Description": "CHEESE,SWISS",
+  "Nutrient Data Bank Number": 1040
+},
+{
+  "Category": "CHEESE",
+  "Data": {
+    "Niacin": 0.205,
+    "Major Minerals": {
+      "Copper": 0.026,
+      "Iron": 0.23,
+      "Sodium": 753,
+      "Potassium": 65,
+      "Calcium": 700,
+      "Magnesium": 13,
+      "Zinc": 3.5,
+      "Phosphorus": 500
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 1045,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 2.1,
+      "Vitamin B6": 0.065,
+      "Vitamin A - RAE": 249,
+      "Vitamin E": 0.0,
+      "Vitamin K": 0.0
+    },
+    "Carboydrate": 1.88,
+    "Selenium": 14.5,
+    "Thiamin": 0.061,
+    "Choline": 0,
+    "Beta Carotene": 0,
+    "Fiber": 0.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 16.775,
+      "Monosaturated Fat": 7.136,
+      "Total": 25.98,
+      "Polysaturated Fat": 0.721
+    },
+    "Water": 42.86,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.346,
+    "Ash": 4.87,
+    "Alpha Carotene": 0,
+    "Retinol": 236,
+    "Manganese": 0.013,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.359,
+    "Cholesterol": 102,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 340,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 oz",
+      "FirstHouseholdWeight": 28.35,
+      "SecondHouseholdWeight": 170,
+      "SecondHouseholdWeightDescription": "1 package,  (6 oz)"
+    },
+    "Sugar Total": 0.0,
+    "Protein": 24.41
+  },
+  "Description": "CHEESE,TILSIT",
+  "Nutrient Data Bank Number": 1041
+},
+{
+  "Category": "CHEESE",
+  "Data": {
+    "Niacin": 0.069,
+    "Major Minerals": {
+      "Copper": 0.016,
+      "Iron": 0.19,
+      "Sodium": 1489,
+      "Potassium": 169,
+      "Calcium": 552,
+      "Magnesium": 27,
+      "Zinc": 2.84,
+      "Phosphorus": 513
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 961,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 0.7,
+      "Vitamin B6": 0.071,
+      "Vitamin A - RAE": 254,
+      "Vitamin E": 0.27,
+      "Vitamin K": 2.7
+    },
+    "Carboydrate": 1.6,
+    "Selenium": 14.4,
+    "Thiamin": 0.027,
+    "Choline": 36,
+    "Beta Carotene": 82,
+    "Fiber": 0.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 19.694,
+      "Monosaturated Fat": 8.951,
+      "Total": 31.25,
+      "Polysaturated Fat": 0.99
+    },
+    "Water": 39.16,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.482,
+    "Ash": 5.84,
+    "Alpha Carotene": 0,
+    "Retinol": 247,
+    "Manganese": 0.008,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.353,
+    "Cholesterol": 94,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 375,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup, diced",
+      "FirstHouseholdWeight": 140.0,
+      "SecondHouseholdWeight": 244,
+      "SecondHouseholdWeightDescription": "1 cup, melted"
+    },
+    "Sugar Total": 0.50999999,
+    "Protein": 22.15
+  },
+  "Description": "CHEESE,PAST PROCESS,AMERICAN,W/DI NA PO4",
+  "Nutrient Data Bank Number": 1042
+},
+{
+  "Category": "CHEESE",
+  "Data": {
+    "Niacin": 0.078,
+    "Major Minerals": {
+      "Copper": 0.033,
+      "Iron": 0.42,
+      "Sodium": 1428,
+      "Potassium": 162,
+      "Calcium": 614,
+      "Magnesium": 22,
+      "Zinc": 2.98,
+      "Phosphorus": 744
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 1045,
+      "Vitamin C": 2.3,
+      "Vitamin B12": 0.7,
+      "Vitamin B6": 0.071,
+      "Vitamin A - RAE": 248,
+      "Vitamin E": 0.29,
+      "Vitamin K": 2.9
+    },
+    "Carboydrate": 1.73,
+    "Selenium": 14.5,
+    "Thiamin": 0.027,
+    "Choline": 36,
+    "Beta Carotene": 151,
+    "Fiber": 0.100000001,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 19.663,
+      "Monosaturated Fat": 8.937,
+      "Total": 31.2,
+      "Polysaturated Fat": 0.988
+    },
+    "Water": 39.08,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.485,
+    "Ash": 5.84,
+    "Alpha Carotene": 12,
+    "Retinol": 235,
+    "Manganese": 0.016,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.354,
+    "Cholesterol": 94,
+    "Lutein and Zeaxanthin": 20,
+    "Kilocalories": 375,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup, diced",
+      "FirstHouseholdWeight": 140.0,
+      "SecondHouseholdWeight": 244,
+      "SecondHouseholdWeightDescription": "1 cup, melted"
+    },
+    "Sugar Total": 0.629999995,
+    "Protein": 22.13
+  },
+  "Description": "CHEESE,PAST PROCESS,PIMENTO",
+  "Nutrient Data Bank Number": 1043
+},
+{
+  "Category": "CHEESE",
+  "Data": {
+    "Niacin": 0.038,
+    "Major Minerals": {
+      "Copper": 0.027,
+      "Iron": 0.61,
+      "Sodium": 1370,
+      "Potassium": 216,
+      "Calcium": 772,
+      "Magnesium": 29,
+      "Zinc": 3.61,
+      "Phosphorus": 762
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 746,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 1.23,
+      "Vitamin B6": 0.036,
+      "Vitamin A - RAE": 198,
+      "Vitamin E": 0.34,
+      "Vitamin K": 2.2
+    },
+    "Carboydrate": 2.1,
+    "Selenium": 15.9,
+    "Thiamin": 0.014,
+    "Choline": 36,
+    "Beta Carotene": 63,
+    "Fiber": 0.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 16.045,
+      "Monosaturated Fat": 7.046,
+      "Total": 25.01,
+      "Polysaturated Fat": 0.622
+    },
+    "Water": 42.31,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.26,
+    "Ash": 5.85,
+    "Alpha Carotene": 0,
+    "Retinol": 192,
+    "Manganese": 0.014,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.276,
+    "Cholesterol": 85,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 334,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup, diced",
+      "FirstHouseholdWeight": 140.0,
+      "SecondHouseholdWeight": 113,
+      "SecondHouseholdWeightDescription": "1 cup, shredded"
+    },
+    "Sugar Total": 1.230000019,
+    "Protein": 24.73
+  },
+  "Description": "CHEESE,PAST PROCESS,SWISS,W/DI NA PO4",
+  "Nutrient Data Bank Number": 1044
+},
+{
+  "Category": "CHEESE FD",
+  "Data": {
+    "Niacin": 0.074,
+    "Major Minerals": {
+      "Copper": 0.03,
+      "Iron": 0.84,
+      "Sodium": 966,
+      "Potassium": 363,
+      "Calcium": 497,
+      "Magnesium": 30,
+      "Zinc": 3.01,
+      "Phosphorus": 400
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 705,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 1.28,
+      "Vitamin B6": 0.141,
+      "Vitamin A - RAE": 159,
+      "Vitamin E": 0.0,
+      "Vitamin K": 0.0
+    },
+    "Carboydrate": 8.32,
+    "Selenium": 16.2,
+    "Thiamin": 0.03,
+    "Choline": 0,
+    "Beta Carotene": 0,
+    "Fiber": 0.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 15.355,
+      "Monosaturated Fat": 7.165,
+      "Total": 24.46,
+      "Polysaturated Fat": 0.719
+    },
+    "Water": 43.12,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.977,
+    "Ash": 4.44,
+    "Alpha Carotene": 0,
+    "Retinol": 148,
+    "Manganese": 0.01,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.446,
+    "Cholesterol": 64,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 331,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 oz",
+      "FirstHouseholdWeight": 28.35,
+      "SecondHouseholdWeight": 227,
+      "SecondHouseholdWeightDescription": "1 package,  (8 oz)"
+    },
+    "Sugar Total": 0.0,
+    "Protein": 19.66
+  },
+  "Description": "CHEESE FD,COLD PK,AMERICAN",
+  "Nutrient Data Bank Number": 1045
+},
+{
+  "Category": "CHEESE FD",
+  "Data": {
+    "Niacin": 0.17,
+    "Major Minerals": {
+      "Copper": 0.085,
+      "Iron": 0.57,
+      "Sodium": 1265,
+      "Potassium": 291,
+      "Calcium": 570,
+      "Magnesium": 31,
+      "Zinc": 3.19,
+      "Phosphorus": 439
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 761,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 1.26,
+      "Vitamin B6": 0.073,
+      "Vitamin A - RAE": 201,
+      "Vitamin E": 0.22,
+      "Vitamin K": 3.4
+    },
+    "Carboydrate": 7.83,
+    "Selenium": 16.1,
+    "Thiamin": 0.068,
+    "Choline": 36,
+    "Beta Carotene": 65,
+    "Fiber": 0.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 14.895,
+      "Monosaturated Fat": 7.214,
+      "Total": 25.18,
+      "Polysaturated Fat": 1.108
+    },
+    "Water": 43.21,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.974,
+    "Ash": 5.38,
+    "Alpha Carotene": 0,
+    "Retinol": 196,
+    "Manganese": 0.073,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.517,
+    "Cholesterol": 80,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 330,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup",
+      "FirstHouseholdWeight": 113.0,
+      "SecondHouseholdWeight": 28,
+      "SecondHouseholdWeightDescription": "1 oz"
+    },
+    "Sugar Total": 7.429999828,
+    "Protein": 18.4
+  },
+  "Description": "CHEESE FD,PAST PROCESS,AMERICAN,WO/DI NA PO4",
+  "Nutrient Data Bank Number": 1046
+},
+{
+  "Category": "CHEESE FD",
+  "Data": {
+    "Niacin": 0.104,
+    "Major Minerals": {
+      "Copper": 0.03,
+      "Iron": 0.6,
+      "Sodium": 1552,
+      "Potassium": 284,
+      "Calcium": 723,
+      "Magnesium": 28,
+      "Zinc": 3.55,
+      "Phosphorus": 526
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 856,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 2.3,
+      "Vitamin B6": 0.035,
+      "Vitamin A - RAE": 237,
+      "Vitamin E": 0.0,
+      "Vitamin K": 0.0
+    },
+    "Carboydrate": 4.5,
+    "Selenium": 16.1,
+    "Thiamin": 0.014,
+    "Choline": 0,
+    "Beta Carotene": 0,
+    "Fiber": 0.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 15.487,
+      "Monosaturated Fat": 6.801,
+      "Total": 24.14,
+      "Polysaturated Fat": 0.6
+    },
+    "Water": 43.67,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.5,
+    "Ash": 5.77,
+    "Alpha Carotene": 0,
+    "Retinol": 233,
+    "Manganese": 0.01,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.4,
+    "Cholesterol": 82,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 323,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 oz",
+      "FirstHouseholdWeight": 28.35,
+      "SecondHouseholdWeight": 227,
+      "SecondHouseholdWeightDescription": "1 package,  (8 oz)"
+    },
+    "Sugar Total": 0.0,
+    "Protein": 21.92
+  },
+  "Description": "CHEESE FD,PAST PROCESS,SWISS",
+  "Nutrient Data Bank Number": 1047
+},
+{
+  "Category": "CHEESE SPRD",
+  "Data": {
+    "Niacin": 0.131,
+    "Major Minerals": {
+      "Copper": 0.033,
+      "Iron": 0.33,
+      "Sodium": 1345,
+      "Potassium": 242,
+      "Calcium": 562,
+      "Magnesium": 29,
+      "Zinc": 2.59,
+      "Phosphorus": 712
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 653,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 0.4,
+      "Vitamin B6": 0.117,
+      "Vitamin A - RAE": 173,
+      "Vitamin E": 0.19,
+      "Vitamin K": 1.8
+    },
+    "Carboydrate": 8.73,
+    "Selenium": 11.3,
+    "Thiamin": 0.048,
+    "Choline": 36,
+    "Beta Carotene": 55,
+    "Fiber": 0.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 13.327,
+      "Monosaturated Fat": 6.219,
+      "Total": 21.23,
+      "Polysaturated Fat": 0.624
+    },
+    "Water": 47.65,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.686,
+    "Ash": 5.98,
+    "Alpha Carotene": 0,
+    "Retinol": 168,
+    "Manganese": 0.02,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.431,
+    "Cholesterol": 55,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 290,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup, diced",
+      "FirstHouseholdWeight": 140.0,
+      "SecondHouseholdWeight": 244,
+      "SecondHouseholdWeightDescription": "1 cup"
+    },
+    "Sugar Total": 7.320000172,
+    "Protein": 16.41
+  },
+  "Description": "CHEESE SPRD,PAST PROCESS,AMERICAN,WO/DI NA PO4",
+  "Nutrient Data Bank Number": 1048
+},
+{
+  "Category": "CREAM",
+  "Data": {
+    "Niacin": 0.078,
+    "Major Minerals": {
+      "Copper": 0.01,
+      "Iron": 0.07,
+      "Sodium": 41,
+      "Potassium": 130,
+      "Calcium": 105,
+      "Magnesium": 10,
+      "Zinc": 0.51,
+      "Phosphorus": 95
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 354,
+      "Vitamin C": 0.9,
+      "Vitamin B12": 0.33,
+      "Vitamin B6": 0.039,
+      "Vitamin A - RAE": 97,
+      "Vitamin E": 0.33,
+      "Vitamin K": 1.3
+    },
+    "Carboydrate": 4.3,
+    "Selenium": 1.8,
+    "Thiamin": 0.035,
+    "Choline": 19,
+    "Beta Carotene": 22,
+    "Fiber": 0.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 7.158,
+      "Monosaturated Fat": 3.321,
+      "Total": 11.5,
+      "Polysaturated Fat": 0.427
+    },
+    "Water": 80.57,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.289,
+    "Ash": 0.67,
+    "Alpha Carotene": 0,
+    "Retinol": 95,
+    "Manganese": 0.001,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.149,
+    "Cholesterol": 37,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 130,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup",
+      "FirstHouseholdWeight": 242.0,
+      "SecondHouseholdWeight": 15,
+      "SecondHouseholdWeightDescription": "1 tbsp"
+    },
+    "Sugar Total": 0.159999996,
+    "Protein": 2.96
+  },
+  "Description": "CREAM,FLUID,HALF AND HALF",
+  "Nutrient Data Bank Number": 1049
+},
+{
+  "Category": "CREAM",
+  "Data": {
+    "Niacin": 0.057,
+    "Major Minerals": {
+      "Copper": 0.008,
+      "Iron": 0.04,
+      "Sodium": 40,
+      "Potassium": 122,
+      "Calcium": 96,
+      "Magnesium": 9,
+      "Zinc": 0.27,
+      "Phosphorus": 80
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 656,
+      "Vitamin C": 0.8,
+      "Vitamin B12": 0.22,
+      "Vitamin B6": 0.032,
+      "Vitamin A - RAE": 181,
+      "Vitamin E": 0.55,
+      "Vitamin K": 1.7
+    },
+    "Carboydrate": 3.66,
+    "Selenium": 0.6,
+    "Thiamin": 0.032,
+    "Choline": 17,
+    "Beta Carotene": 37,
+    "Fiber": 0.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 12.02,
+      "Monosaturated Fat": 5.577,
+      "Total": 19.31,
+      "Polysaturated Fat": 0.717
+    },
+    "Water": 73.75,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.276,
+    "Ash": 0.58,
+    "Alpha Carotene": 0,
+    "Retinol": 178,
+    "Manganese": 0.001,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.148,
+    "Cholesterol": 66,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 195,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup",
+      "FirstHouseholdWeight": 240.0,
+      "SecondHouseholdWeight": 15,
+      "SecondHouseholdWeightDescription": "1 tbsp"
+    },
+    "Sugar Total": 0.140000001,
+    "Protein": 2.7
+  },
+  "Description": "CREAM,FLUID,LT (COFFEE CRM OR TABLE CRM)",
+  "Nutrient Data Bank Number": 1050
+},
+{
+  "Category": "CREAM",
+  "Data": {
+    "Niacin": 0.042,
+    "Major Minerals": {
+      "Copper": 0.007,
+      "Iron": 0.03,
+      "Sodium": 34,
+      "Potassium": 97,
+      "Calcium": 69,
+      "Magnesium": 7,
+      "Zinc": 0.25,
+      "Phosphorus": 61
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 1013,
+      "Vitamin C": 0.6,
+      "Vitamin B12": 0.2,
+      "Vitamin B6": 0.028,
+      "Vitamin A - RAE": 279,
+      "Vitamin E": 0.88,
+      "Vitamin K": 2.7
+    },
+    "Carboydrate": 2.96,
+    "Selenium": 0.5,
+    "Thiamin": 0.024,
+    "Choline": 17,
+    "Beta Carotene": 60,
+    "Fiber": 0.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 19.337,
+      "Monosaturated Fat": 9.093,
+      "Total": 30.91,
+      "Polysaturated Fat": 0.884
+    },
+    "Water": 63.5,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.259,
+    "Ash": 0.46,
+    "Alpha Carotene": 0,
+    "Retinol": 274,
+    "Manganese": 0.001,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.125,
+    "Cholesterol": 111,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 292,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup,  whipped",
+      "FirstHouseholdWeight": 120.0,
+      "SecondHouseholdWeight": 239,
+      "SecondHouseholdWeightDescription": "1 cup, fluid (yields 2 cups whipped)"
+    },
+    "Sugar Total": 0.109999999,
+    "Protein": 2.17
+  },
+  "Description": "CREAM,FLUID,LT WHIPPING",
+  "Nutrient Data Bank Number": 1052
+},
+{
+  "Category": "CREAM",
+  "Data": {
+    "Niacin": 0.039,
+    "Major Minerals": {
+      "Copper": 0.006,
+      "Iron": 0.03,
+      "Sodium": 38,
+      "Potassium": 75,
+      "Calcium": 65,
+      "Magnesium": 7,
+      "Zinc": 0.23,
+      "Phosphorus": 62
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 1470,
+      "Vitamin C": 0.6,
+      "Vitamin B12": 0.18,
+      "Vitamin B6": 0.026,
+      "Vitamin A - RAE": 411,
+      "Vitamin E": 1.06,
+      "Vitamin K": 3.2
+    },
+    "Carboydrate": 2.79,
+    "Selenium": 0.5,
+    "Thiamin": 0.022,
+    "Choline": 17,
+    "Beta Carotene": 72,
+    "Fiber": 0.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 23.032,
+      "Monosaturated Fat": 10.686,
+      "Total": 37.0,
+      "Polysaturated Fat": 1.374
+    },
+    "Water": 57.71,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.255,
+    "Ash": 0.45,
+    "Alpha Carotene": 0,
+    "Retinol": 405,
+    "Manganese": 0.001,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.11,
+    "Cholesterol": 137,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 345,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup,  whipped",
+      "FirstHouseholdWeight": 119.5,
+      "SecondHouseholdWeight": 238,
+      "SecondHouseholdWeightDescription": "1 cup, fluid (yields 2 cups whipped)"
+    },
+    "Sugar Total": 0.109999999,
+    "Protein": 2.05
+  },
+  "Description": "CREAM,FLUID,HVY WHIPPING",
+  "Nutrient Data Bank Number": 1053
+},
+{
+  "Category": "CREAM",
+  "Data": {
+    "Niacin": 0.07,
+    "Major Minerals": {
+      "Copper": 0.01,
+      "Iron": 0.05,
+      "Sodium": 130,
+      "Potassium": 147,
+      "Calcium": 101,
+      "Magnesium": 11,
+      "Zinc": 0.37,
+      "Phosphorus": 89
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 685,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 0.29,
+      "Vitamin B6": 0.041,
+      "Vitamin A - RAE": 188,
+      "Vitamin E": 0.64,
+      "Vitamin K": 1.9
+    },
+    "Carboydrate": 12.49,
+    "Selenium": 1.4,
+    "Thiamin": 0.037,
+    "Choline": 17,
+    "Beta Carotene": 43,
+    "Fiber": 0.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 13.831,
+      "Monosaturated Fat": 6.418,
+      "Total": 22.22,
+      "Polysaturated Fat": 0.825
+    },
+    "Water": 61.33,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.305,
+    "Ash": 0.76,
+    "Alpha Carotene": 0,
+    "Retinol": 184,
+    "Manganese": 0.001,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.065,
+    "Cholesterol": 76,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 257,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup",
+      "FirstHouseholdWeight": 60.0,
+      "SecondHouseholdWeight": 3,
+      "SecondHouseholdWeightDescription": "1 tbsp"
+    },
+    "Sugar Total": 8.0,
+    "Protein": 3.2
+  },
+  "Description": "CREAM,WHIPPED,CRM TOPPING,PRESSURIZED",
+  "Nutrient Data Bank Number": 1054
+},
+
+{
+  "Category": "CREAM",
+  "Data": {
+    "Niacin": 0.067,
+    "Major Minerals": {
+      "Copper": 0.016,
+      "Iron": 0.07,
+      "Sodium": 41,
+      "Potassium": 129,
+      "Calcium": 104,
+      "Magnesium": 10,
+      "Zinc": 0.5,
+      "Phosphorus": 95
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 372,
+      "Vitamin C": 0.9,
+      "Vitamin B12": 0.3,
+      "Vitamin B6": 0.016,
+      "Vitamin A - RAE": 102,
+      "Vitamin E": 0.34,
+      "Vitamin K": 0.6
+    },
+    "Carboydrate": 4.26,
+    "Selenium": 2.1,
+    "Thiamin": 0.035,
+    "Choline": 19,
+    "Beta Carotene": 23,
+    "Fiber": 0.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 7.47,
+      "Monosaturated Fat": 3.466,
+      "Total": 12.0,
+      "Polysaturated Fat": 0.446
+    },
+    "Water": 80.14,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.363,
+    "Ash": 0.66,
+    "Alpha Carotene": 0,
+    "Retinol": 100,
+    "Manganese": 0.003,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.149,
+    "Cholesterol": 39,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 135,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup",
+      "FirstHouseholdWeight": 242.0,
+      "SecondHouseholdWeight": 15,
+      "SecondHouseholdWeightDescription": "1 tbsp"
+    },
+    "Sugar Total": 0.159999996,
+    "Protein": 2.94
+  },
+  "Description": "CREAM,SOUR,RED FAT,CULTURED",
+  "Nutrient Data Bank Number": 1055
+},
+{
+  "Category": "CREAM",
+  "Data": {
+    "Niacin": 0.109,
+    "Major Minerals": {
+      "Copper": 0.019,
+      "Iron": 0.17,
+      "Sodium": 80,
+      "Potassium": 141,
+      "Calcium": 110,
+      "Magnesium": 10,
+      "Zinc": 0.38,
+      "Phosphorus": 115
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 576,
+      "Vitamin C": 0.9,
+      "Vitamin B12": 0.28,
+      "Vitamin B6": 0.057,
+      "Vitamin A - RAE": 162,
+      "Vitamin E": 0.44,
+      "Vitamin K": 1.8
+    },
+    "Carboydrate": 2.88,
+    "Selenium": 2.6,
+    "Thiamin": 0.036,
+    "Choline": 19,
+    "Beta Carotene": 26,
+    "Fiber": 0.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 11.507,
+      "Monosaturated Fat": 5.068,
+      "Total": 19.73,
+      "Polysaturated Fat": 0.84
+    },
+    "Water": 74.46,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.336,
+    "Ash": 0.85,
+    "Alpha Carotene": 0,
+    "Retinol": 160,
+    "Manganese": 0.011,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.172,
+    "Cholesterol": 52,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 193,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup",
+      "FirstHouseholdWeight": 230.0,
+      "SecondHouseholdWeight": 12,
+      "SecondHouseholdWeightDescription": "1 tbsp"
+    },
+    "Sugar Total": 3.5,
+    "Protein": 2.07
+  },
+  "Description": "CREAM,SOUR,CULTURED",
+  "Nutrient Data Bank Number": 1056
+},
+{
+  "Category": "CASHEW NUTS",
+  "Data": {
+    "Niacin": 1.4,
+    "Major Minerals": {
+      "Copper": 2.22,
+      "Iron": 6.0,
+      "Sodium": 16,
+      "Potassium": 565,
+      "Calcium": 45,
+      "Magnesium": 260,
+      "Zinc": 5.6,
+      "Phosphorus": 490
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 0,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 0.0,
+      "Vitamin B6": 0.256,
+      "Vitamin A - RAE": 0,
+      "Vitamin E": 0.92,
+      "Vitamin K": 34.7
+    },
+    "Carboydrate": 32.69,
+    "Selenium": 11.7,
+    "Thiamin": 0.2,
+    "Choline": 61,
+    "Beta Carotene": 0,
+    "Fiber": 3.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 9.157,
+      "Monosaturated Fat": 27.317,
+      "Total": 46.35,
+      "Polysaturated Fat": 7.836
+    },
+    "Water": 1.7,
+    "Lycopene": 0,
+    "Pantothenic Acid": 1.217,
+    "Ash": 3.95,
+    "Alpha Carotene": 0,
+    "Retinol": 0,
+    "Manganese": 0.826,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.2,
+    "Cholesterol": 0,
+    "Lutein and Zeaxanthin": 23,
+    "Kilocalories": 574,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup, halves and whole",
+      "FirstHouseholdWeight": 137.0,
+      "SecondHouseholdWeight": 9,
+      "SecondHouseholdWeightDescription": "1 tbsp"
+    },
+    "Sugar Total": 5.010000229,
+    "Protein": 15.31
+  },
+  "Description": "CASHEW NUTS,DRY RSTD,WO/SALT",
+  "Nutrient Data Bank Number": 12085
+},
+{
+  "Category": "CASHEW NUTS",
+  "Data": {
+    "Niacin": 1.736,
+    "Major Minerals": {
+      "Copper": 2.043,
+      "Iron": 6.05,
+      "Sodium": 13,
+      "Potassium": 632,
+      "Calcium": 43,
+      "Magnesium": 273,
+      "Zinc": 5.35,
+      "Phosphorus": 531
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 0,
+      "Vitamin C": 0.3,
+      "Vitamin B12": 0.0,
+      "Vitamin B6": 0.323,
+      "Vitamin A - RAE": 0,
+      "Vitamin E": 0.92,
+      "Vitamin K": 34.7
+    },
+    "Carboydrate": 29.87,
+    "Selenium": 20.3,
+    "Thiamin": 0.363,
+    "Choline": 61,
+    "Beta Carotene": 0,
+    "Fiber": 3.299999952,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 8.478,
+      "Monosaturated Fat": 25.923,
+      "Total": 47.77,
+      "Polysaturated Fat": 8.546
+    },
+    "Water": 3.48,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.88,
+    "Ash": 2.03,
+    "Alpha Carotene": 0,
+    "Retinol": 0,
+    "Manganese": 1.668,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.218,
+    "Cholesterol": 0,
+    "Lutein and Zeaxanthin": 23,
+    "Kilocalories": 580,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup, whole",
+      "FirstHouseholdWeight": 129.08,
+      "SecondHouseholdWeight": 129,
+      "SecondHouseholdWeightDescription": "1 cup, halves and pieces"
+    },
+    "Sugar Total": 5.010000229,
+    "Protein": 16.84
+  },
+  "Description": "CASHEW NUTS,OIL RSTD,WO/SALT",
+  "Nutrient Data Bank Number": 12086
+},
+{
+  "Category": "NUTS",
+  "Data": {
+    "Niacin": 1.062,
+    "Major Minerals": {
+      "Copper": 2.195,
+      "Iron": 6.68,
+      "Sodium": 12,
+      "Potassium": 660,
+      "Calcium": 37,
+      "Magnesium": 292,
+      "Zinc": 5.78,
+      "Phosphorus": 593
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 0,
+      "Vitamin C": 0.5,
+      "Vitamin B12": 0.0,
+      "Vitamin B6": 0.417,
+      "Vitamin A - RAE": 0,
+      "Vitamin E": 0.9,
+      "Vitamin K": 34.1
+    },
+    "Carboydrate": 30.19,
+    "Selenium": 19.9,
+    "Thiamin": 0.423,
+    "Choline": 0,
+    "Beta Carotene": 0,
+    "Fiber": 3.299999952,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 7.783,
+      "Monosaturated Fat": 23.797,
+      "Total": 43.85,
+      "Polysaturated Fat": 7.845
+    },
+    "Water": 5.2,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.864,
+    "Ash": 2.54,
+    "Alpha Carotene": 0,
+    "Retinol": 0,
+    "Manganese": 1.655,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.058,
+    "Cholesterol": 0,
+    "Lutein and Zeaxanthin": 22,
+    "Kilocalories": 553,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 oz",
+      "FirstHouseholdWeight": 28.35,
+      "SecondHouseholdWeight": 0,
+      "SecondHouseholdWeightDescription": ""
+    },
+    "Sugar Total": 5.909999847,
+    "Protein": 18.22
+  },
+  "Description": "NUTS,CASHEW NUTS,RAW",
+  "Nutrient Data Bank Number": 12087
+},
+{
+  "Category": "No Category",
+  "Data": {
+    "Niacin": 0.105,
+    "Major Minerals": {
+      "Copper": 0.013,
+      "Iron": 0.2,
+      "Sodium": 54,
+      "Potassium": 165,
+      "Calcium": 130,
+      "Magnesium": 19,
+      "Zinc": 0.46,
+      "Phosphorus": 109
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 161,
+      "Vitamin C": 1.5,
+      "Vitamin B12": 0.45,
+      "Vitamin B6": 0.05,
+      "Vitamin A - RAE": 46,
+      "Vitamin E": 0.2,
+      "Vitamin K": 0.2
+    },
+    "Carboydrate": 13.54,
+    "Selenium": 4.2,
+    "Thiamin": 0.034,
+    "Choline": 52,
+    "Beta Carotene": 6,
+    "Fiber": 0.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 4.443,
+      "Monosaturated Fat": 2.233,
+      "Total": 7.48,
+      "Polysaturated Fat": 0.339
+    },
+    "Water": 74.37,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.417,
+    "Ash": 0.8,
+    "Alpha Carotene": 0,
+    "Retinol": 45,
+    "Manganese": 0.005,
+    "Beta Cryptoxanthin": 1,
+    "Riboflavin": 0.19,
+    "Cholesterol": 59,
+    "Lutein and Zeaxanthin": 54,
+    "Kilocalories": 135,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup",
+      "FirstHouseholdWeight": 254.0,
+      "SecondHouseholdWeight": 32,
+      "SecondHouseholdWeightDescription": "1 fl oz"
+    },
+    "Sugar Total": 8.409999847,
+    "Protein": 3.81
+  },
+  "Description": "EGGNOG",
+  "Nutrient Data Bank Number": 1057
+},
+{
+  "Category": "OLIVES",
+  "Data": {
+    "Niacin": 0.037,
+    "Major Minerals": {
+      "Copper": 0.251,
+      "Iron": 3.3,
+      "Sodium": 872,
+      "Potassium": 8,
+      "Calcium": 88,
+      "Magnesium": 4,
+      "Zinc": 0.22,
+      "Phosphorus": 3
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 403,
+      "Vitamin C": 0.9,
+      "Vitamin B12": 0.0,
+      "Vitamin B6": 0.009,
+      "Vitamin A - RAE": 20,
+      "Vitamin E": 1.65,
+      "Vitamin K": 1.4
+    },
+    "Carboydrate": 6.26,
+    "Selenium": 0.9,
+    "Thiamin": 0.003,
+    "Choline": 10,
+    "Beta Carotene": 237,
+    "Fiber": 3.200000048,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 1.415,
+      "Monosaturated Fat": 7.888,
+      "Total": 10.68,
+      "Polysaturated Fat": 0.911
+    },
+    "Water": 79.99,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.015,
+    "Ash": 2.23,
+    "Alpha Carotene": 0,
+    "Retinol": 0,
+    "Manganese": 0.02,
+    "Beta Cryptoxanthin": 9,
+    "Riboflavin": 0.0,
+    "Cholesterol": 0,
+    "Lutein and Zeaxanthin": 510,
+    "Kilocalories": 115,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 tbsp",
+      "FirstHouseholdWeight": 8.4,
+      "SecondHouseholdWeight": 4,
+      "SecondHouseholdWeightDescription": "1 large"
+    },
+    "Sugar Total": 0.0,
+    "Protein": 0.84
+  },
+  "Description": "OLIVES",
+  "Nutrient Data Bank Number": 12087
+},
+{
+  "Category": "PORK",
+  "Data": {
+    "Niacin": 5.34,
+    "Major Minerals": {
+      "Copper": 0.11,
+      "Iron": 4.99,
+      "Sodium": 109,
+      "Potassium": 237,
+      "Calcium": 19,
+      "Magnesium": 20,
+      "Zinc": 4.53,
+      "Phosphorus": 174
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 0,
+      "Vitamin C": 1.7,
+      "Vitamin B12": 2.39,
+      "Vitamin B6": 0.23,
+      "Vitamin A - RAE": 0,
+      "Vitamin E": 0.0,
+      "Vitamin K": 0.0
+    },
+    "Carboydrate": 0.0,
+    "Selenium": 15.5,
+    "Thiamin": 0.317,
+    "Choline": 0,
+    "Beta Carotene": 0,
+    "Fiber": 0.0,
+    "Refuse Percentage": 24,
+    "Fat": {
+      "Saturated Fat": 6.449,
+      "Monosaturated Fat": 8.759,
+      "Total": 18.6,
+      "Polysaturated Fat": 1.93
+    },
+    "Water": 56.9,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.507,
+    "Ash": 0.8,
+    "Alpha Carotene": 0,
+    "Retinol": 0,
+    "Manganese": 0.01,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.51,
+    "Cholesterol": 146,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 271,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)",
+      "FirstHouseholdWeight": 231.0,
+      "SecondHouseholdWeight": 85,
+      "SecondHouseholdWeightDescription": "3 oz"
+    },
+    "Sugar Total": 0.0,
+    "Protein": 24.1
+  },
+  "Description": "PORK,FRSH,VAR MEATS&BY-PRODUCTS,TONGUE,CKD,BRSD",
+  "Nutrient Data Bank Number": 10122
+},
+{
+  "Category": "PORK",
+  "Data": {
+    "Niacin": 3.828,
+    "Major Minerals": {
+      "Copper": 0.07,
+      "Iron": 0.48,
+      "Sodium": 833,
+      "Potassium": 208,
+      "Calcium": 6,
+      "Magnesium": 12,
+      "Zinc": 1.17,
+      "Phosphorus": 188
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 37,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 0.69,
+      "Vitamin B6": 0.21,
+      "Vitamin A - RAE": 11,
+      "Vitamin E": 0.27,
+      "Vitamin K": 0.0
+    },
+    "Carboydrate": 0.66,
+    "Selenium": 20.2,
+    "Thiamin": 0.281,
+    "Choline": 47,
+    "Beta Carotene": 0,
+    "Fiber": 0.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 14.993,
+      "Monosaturated Fat": 20.047,
+      "Total": 45.04,
+      "Polysaturated Fat": 5.034
+    },
+    "Water": 40.2,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.52,
+    "Ash": 2.51,
+    "Alpha Carotene": 0,
+    "Retinol": 11,
+    "Manganese": 0.022,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.113,
+    "Cholesterol": 68,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 458,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "",
+      "FirstHouseholdWeight": 0.0,
+      "SecondHouseholdWeight": 0,
+      "SecondHouseholdWeightDescription": ""
+    },
+    "Sugar Total": 0.0,
+    "Protein": 11.6
+  },
+  "Description": "PORK,CURED,BACON,RAW",
+  "Nutrient Data Bank Number": 10123
+},
+{
+  "Category": "PORK",
+  "Data": {
+    "Niacin": 11.099,
+    "Major Minerals": {
+      "Copper": 0.164,
+      "Iron": 1.44,
+      "Sodium": 2310,
+      "Potassium": 565,
+      "Calcium": 11,
+      "Magnesium": 33,
+      "Zinc": 3.5,
+      "Phosphorus": 533
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 37,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 1.23,
+      "Vitamin B6": 0.349,
+      "Vitamin A - RAE": 11,
+      "Vitamin E": 0.31,
+      "Vitamin K": 0.1
+    },
+    "Carboydrate": 1.43,
+    "Selenium": 62.0,
+    "Thiamin": 0.404,
+    "Choline": 123,
+    "Beta Carotene": 0,
+    "Fiber": 0.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 13.739,
+      "Monosaturated Fat": 18.52,
+      "Total": 41.78,
+      "Polysaturated Fat": 4.548
+    },
+    "Water": 12.32,
+    "Lycopene": 0,
+    "Pantothenic Acid": 1.171,
+    "Ash": 7.43,
+    "Alpha Carotene": 0,
+    "Retinol": 11,
+    "Manganese": 0.022,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.264,
+    "Cholesterol": 110,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 541,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 slice, cooked",
+      "FirstHouseholdWeight": 8.02,
+      "SecondHouseholdWeight": 0,
+      "SecondHouseholdWeightDescription": ""
+    },
+    "Sugar Total": 0.0,
+    "Protein": 37.04
+  },
+  "Description": "PORK,CURED,BACON,CKD,BRLD,PAN-FRIED OR RSTD",
+  "Nutrient Data Bank Number": 10124
+},
+
+{
+  "Category": "HAZELNUTS OR FILBERTS",
+  "Data": {
+    "Niacin": 1.55,
+    "Major Minerals": {
+      "Copper": 1.6,
+      "Iron": 3.3,
+      "Sodium": 0,
+      "Potassium": 658,
+      "Calcium": 149,
+      "Magnesium": 160,
+      "Zinc": 2.2,
+      "Phosphorus": 310
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 40,
+      "Vitamin C": 2.0,
+      "Vitamin B12": 0.0,
+      "Vitamin B6": 0.585,
+      "Vitamin A - RAE": 2,
+      "Vitamin E": 17.5,
+      "Vitamin K": 0.0
+    },
+    "Carboydrate": 17.0,
+    "Selenium": 4.1,
+    "Thiamin": 0.475,
+    "Choline": 0,
+    "Beta Carotene": 23,
+    "Fiber": 11.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 4.669,
+      "Monosaturated Fat": 48.192,
+      "Total": 61.15,
+      "Polysaturated Fat": 5.558
+    },
+    "Water": 5.79,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.815,
+    "Ash": 2.36,
+    "Alpha Carotene": 2,
+    "Retinol": 0,
+    "Manganese": 12.65,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.11,
+    "Cholesterol": 0,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 629,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 oz",
+      "FirstHouseholdWeight": 28.35,
+      "SecondHouseholdWeight": 0,
+      "SecondHouseholdWeightDescription": ""
+    },
+    "Sugar Total": 3.49000001,
+    "Protein": 13.7
+  },
+  "Description": "HAZELNUTS OR FILBERTS,BLANCHED",
+  "Nutrient Data Bank Number": 12121
+},
+{
+  "Category": "Cake",
+  "Data": {
+    "Niacin": 0.925,
+    "Major Minerals": {
+      "Copper": 0.305,
+      "Iron": 3.6,
+      "Sodium": 389,
+      "Potassium": 176,
+      "Calcium": 116,
+      "Magnesium": 36,
+      "Zinc": 1.04,
+      "Phosphorus": 87
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 2,
+      "Vitamin C": 1.9,
+      "Vitamin B12": 0.06,
+      "Vitamin B6": 0.143,
+      "Vitamin A - RAE": 1,
+      "Vitamin E": 1.09,
+      "Vitamin K": 10.6
+    },
+    "Carboydrate": 60.31,
+    "Selenium": 3.4,
+    "Thiamin": 0.037,
+    "Choline": 21,
+    "Beta Carotene": 0,
+    "Fiber": 3.200000048,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 4.884,
+      "Monosaturated Fat": 8.525,
+      "Total": 15.93,
+      "Polysaturated Fat": 1.822
+    },
+    "Water": 18.57,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.083,
+    "Ash": 1.56,
+    "Alpha Carotene": 0,
+    "Retinol": 1,
+    "Manganese": 0.485,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.075,
+    "Cholesterol": 0,
+    "Lutein and Zeaxanthin": 3,
+    "Kilocalories": 399,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 oz",
+      "FirstHouseholdWeight": 28.35,
+      "SecondHouseholdWeight": 50,
+      "SecondHouseholdWeightDescription": "1 cupcake"
+    },
+    "Sugar Total": 37.75999832,
+    "Protein": 3.63
+  },
+  "Description": "Cake, snack cakes, creme-filled, chocolate with frosting",
+  "Nutrient Data Bank Number": 18127
+},
+{
+  "Category": "No Category",
+  "Data": {
+    "Niacin": 0.322,
+    "Major Minerals": {
+      "Copper": 0.512,
+      "Iron": 2.11,
+      "Sodium": 72,
+      "Potassium": 224,
+      "Calcium": 14,
+      "Magnesium": 65,
+      "Zinc": 0.73,
+      "Phosphorus": 129
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 0,
+      "Vitamin C": 0.2,
+      "Vitamin B12": 0.0,
+      "Vitamin B6": 0.006,
+      "Vitamin A - RAE": 0,
+      "Vitamin E": 0.02,
+      "Vitamin K": 0.5
+    },
+    "Carboydrate": 65.1,
+    "Selenium": 1.4,
+    "Thiamin": 0.009,
+    "Choline": 1,
+    "Beta Carotene": 0,
+    "Fiber": 2.599999905,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 0.519,
+      "Monosaturated Fat": 0.286,
+      "Total": 1.13,
+      "Polysaturated Fat": 0.026
+    },
+    "Water": 31.0,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.013,
+    "Ash": 0.67,
+    "Alpha Carotene": 0,
+    "Retinol": 0,
+    "Manganese": 0.382,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.05,
+    "Cholesterol": 0,
+    "Lutein and Zeaxanthin": 3,
+    "Kilocalories": 279,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 serving, 2 tbsp",
+      "FirstHouseholdWeight": 38.5,
+      "SecondHouseholdWeight": 300,
+      "SecondHouseholdWeightDescription": "1 cup"
+    },
+    "Sugar Total": 49.65000153,
+    "Protein": 2.1
+  },
+  "Description": "CHOCOLATE SYRUP",
+  "Nutrient Data Bank Number": 14181
+},
+{
+  "Category": "CARBONATED BEV",
+  "Data": {
+    "Niacin": 0.0,
+    "Major Minerals": {
+      "Copper": 0.0,
+      "Iron": 0.02,
+      "Sodium": 4,
+      "Potassium": 3,
+      "Calcium": 2,
+      "Magnesium": 0,
+      "Zinc": 0.01,
+      "Phosphorus": 11
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 0,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 0.0,
+      "Vitamin B6": 0.0,
+      "Vitamin A - RAE": 0,
+      "Vitamin E": 0.0,
+      "Vitamin K": 0.0
+    },
+    "Carboydrate": 10.58,
+    "Selenium": 0.1,
+    "Thiamin": 0.0,
+    "Choline": 0,
+    "Beta Carotene": 0,
+    "Fiber": 0.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 0.0,
+      "Monosaturated Fat": 0.0,
+      "Total": 0.0,
+      "Polysaturated Fat": 0.0
+    },
+    "Water": 89.62,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.0,
+    "Ash": 0.06,
+    "Alpha Carotene": 0,
+    "Retinol": 0,
+    "Manganese": 0.0,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.0,
+    "Cholesterol": 0,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 41,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 fl oz",
+      "FirstHouseholdWeight": 30.69,
+      "SecondHouseholdWeight": 368,
+      "SecondHouseholdWeightDescription": "1 can, 12 fl oz"
+    },
+    "Sugar Total": 10.57999992,
+    "Protein": 0.0
+  },
+  "Description": "CARBONATED BEV,COLA,WO/CAFFEINE",
+  "Nutrient Data Bank Number": 14147
+},
+{
+  "Category": "SPORTS DRK",
+  "Data": {
+    "Niacin": 1.565,
+    "Major Minerals": {
+      "Copper": 0.0,
+      "Iron": 0.09,
+      "Sodium": 22,
+      "Potassium": 18,
+      "Calcium": 1,
+      "Magnesium": 0,
+      "Zinc": 0.01,
+      "Phosphorus": 1
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 0,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 1.37,
+      "Vitamin B6": 0.153,
+      "Vitamin A - RAE": 0,
+      "Vitamin E": 0.0,
+      "Vitamin K": 0.0
+    },
+    "Carboydrate": 7.84,
+    "Selenium": 0.0,
+    "Thiamin": 0.011,
+    "Choline": 0,
+    "Beta Carotene": 0,
+    "Fiber": 0.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 0.008,
+      "Monosaturated Fat": 0.011,
+      "Total": 0.05,
+      "Polysaturated Fat": 0.028
+    },
+    "Water": 91.91,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.0,
+    "Ash": 0.2,
+    "Alpha Carotene": 0,
+    "Retinol": 0,
+    "Manganese": 0.0,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.0,
+    "Cholesterol": 0,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 32,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 fl oz",
+      "FirstHouseholdWeight": 30.45,
+      "SecondHouseholdWeight": 244,
+      "SecondHouseholdWeightDescription": "8 fl oz"
+    },
+    "Sugar Total": 6.110000134,
+    "Protein": 0.0
+  },
+  "Description": "SPORTS DRK,COCA-COLA,POWERADE,LEMON-LIME FLAV,RTD",
+  "Nutrient Data Bank Number": 14461
+},
+{
+  "Category": "ALCOHOLIC BEV",
+  "Data": {
+    "Niacin": 0.0,
+    "Major Minerals": {
+      "Copper": 0.001,
+      "Iron": 0.0,
+      "Sodium": 3,
+      "Potassium": 26,
+      "Calcium": 4,
+      "Magnesium": 6,
+      "Zinc": 0.01,
+      "Phosphorus": 0
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 0,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 0.0,
+      "Vitamin B6": 0.0,
+      "Vitamin A - RAE": 0,
+      "Vitamin E": 0.0,
+      "Vitamin K": 0.0
+    },
+    "Carboydrate": 0.87,
+    "Selenium": 0.0,
+    "Thiamin": 0.0,
+    "Choline": 0,
+    "Beta Carotene": 0,
+    "Fiber": 0.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 0.0,
+      "Monosaturated Fat": 0.0,
+      "Total": 0.0,
+      "Polysaturated Fat": 0.0
+    },
+    "Water": 95.3,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.0,
+    "Ash": 0.08,
+    "Alpha Carotene": 0,
+    "Retinol": 0,
+    "Manganese": 0.007,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.0,
+    "Cholesterol": 0,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 28,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 fluid ounce",
+      "FirstHouseholdWeight": 29.54,
+      "SecondHouseholdWeight": 355,
+      "SecondHouseholdWeightDescription": "12 fluid ounce"
+    },
+    "Sugar Total": 0.0,
+    "Protein": 0.2
+  },
+  "Description": "ALCOHOLIC BEV,BEER,LT,BUDWEISER SEL",
+  "Nutrient Data Bank Number": 14005
+},
+{
+  "Category": "TAPIOCA",
+  "Data": {
+    "Niacin": 0.0,
+    "Major Minerals": {
+      "Copper": 0.02,
+      "Iron": 1.58,
+      "Sodium": 1,
+      "Potassium": 11,
+      "Calcium": 20,
+      "Magnesium": 1,
+      "Zinc": 0.12,
+      "Phosphorus": 7
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 0,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 0.0,
+      "Vitamin B6": 0.008,
+      "Vitamin A - RAE": 0,
+      "Vitamin E": 0.0,
+      "Vitamin K": 0.0
+    },
+    "Carboydrate": 88.69,
+    "Selenium": 0.8,
+    "Thiamin": 0.004,
+    "Choline": 1,
+    "Beta Carotene": 0,
+    "Fiber": 0.899999976,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 0.005,
+      "Monosaturated Fat": 0.005,
+      "Total": 0.02,
+      "Polysaturated Fat": 0.003
+    },
+    "Water": 10.99,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.135,
+    "Ash": 0.11,
+    "Alpha Carotene": 0,
+    "Retinol": 0,
+    "Manganese": 0.11,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.0,
+    "Cholesterol": 0,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 358,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup",
+      "FirstHouseholdWeight": 152.0,
+      "SecondHouseholdWeight": 0,
+      "SecondHouseholdWeightDescription": ""
+    },
+    "Sugar Total": 3.349999905,
+    "Protein": 0.19
+  },
+  "Description": "TAPIOCA,PEARL,DRY",
+  "Nutrient Data Bank Number": 20068
+},
+{
+  "Category": "No Category",
+  "Data": {
+    "Niacin": 1.43,
+    "Major Minerals": {
+      "Copper": 0.457,
+      "Iron": 2.57,
+      "Sodium": 5,
+      "Potassium": 332,
+      "Calcium": 37,
+      "Magnesium": 130,
+      "Zinc": 3.45,
+      "Phosphorus": 358
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 0,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 0.0,
+      "Vitamin B6": 0.138,
+      "Vitamin A - RAE": 0,
+      "Vitamin E": 0.9,
+      "Vitamin K": 0.0
+    },
+    "Carboydrate": 72.13,
+    "Selenium": 0.0,
+    "Thiamin": 0.416,
+    "Choline": 0,
+    "Beta Carotene": 0,
+    "Fiber": 0.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 0.366,
+      "Monosaturated Fat": 0.211,
+      "Total": 2.09,
+      "Polysaturated Fat": 0.913
+    },
+    "Water": 10.51,
+    "Lycopene": 0,
+    "Pantothenic Acid": 1.323,
+    "Ash": 2.23,
+    "Alpha Carotene": 0,
+    "Retinol": 0,
+    "Manganese": 3.21,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.134,
+    "Cholesterol": 0,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 336,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup",
+      "FirstHouseholdWeight": 192.0,
+      "SecondHouseholdWeight": 0,
+      "SecondHouseholdWeightDescription": ""
+    },
+    "Sugar Total": 0.0,
+    "Protein": 13.05
+  },
+  "Description": "TRITICALE",
+  "Nutrient Data Bank Number": 20069
+},
+{
+  "Category": "TRITICALE FLR",
+  "Data": {
+    "Niacin": 2.86,
+    "Major Minerals": {
+      "Copper": 0.559,
+      "Iron": 2.59,
+      "Sodium": 2,
+      "Potassium": 466,
+      "Calcium": 35,
+      "Magnesium": 153,
+      "Zinc": 2.66,
+      "Phosphorus": 321
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 0,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 0.0,
+      "Vitamin B6": 0.403,
+      "Vitamin A - RAE": 0,
+      "Vitamin E": 0.9,
+      "Vitamin K": 0.0
+    },
+    "Carboydrate": 73.14,
+    "Selenium": 0.0,
+    "Thiamin": 0.378,
+    "Choline": 0,
+    "Beta Carotene": 0,
+    "Fiber": 14.60000038,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 0.318,
+      "Monosaturated Fat": 0.183,
+      "Total": 1.81,
+      "Polysaturated Fat": 0.794
+    },
+    "Water": 10.01,
+    "Lycopene": 0,
+    "Pantothenic Acid": 2.167,
+    "Ash": 1.85,
+    "Alpha Carotene": 0,
+    "Retinol": 0,
+    "Manganese": 4.185,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.132,
+    "Cholesterol": 0,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 338,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup",
+      "FirstHouseholdWeight": 130.0,
+      "SecondHouseholdWeight": 0,
+      "SecondHouseholdWeightDescription": ""
+    },
+    "Sugar Total": 0.0,
+    "Protein": 13.18
+  },
+  "Description": "TRITICALE FLR,WHOLE-GRAIN",
+  "Nutrient Data Bank Number": 20070
+},
+{
+  "Category": "WHEAT",
+  "Data": {
+    "Niacin": 5.71,
+    "Major Minerals": {
+      "Copper": 0.41,
+      "Iron": 3.6,
+      "Sodium": 2,
+      "Potassium": 340,
+      "Calcium": 25,
+      "Magnesium": 124,
+      "Zinc": 2.78,
+      "Phosphorus": 332
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 9,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 0.0,
+      "Vitamin B6": 0.336,
+      "Vitamin A - RAE": 0,
+      "Vitamin E": 1.01,
+      "Vitamin K": 1.9
+    },
+    "Carboydrate": 68.03,
+    "Selenium": 70.7,
+    "Thiamin": 0.504,
+    "Choline": 31,
+    "Beta Carotene": 5,
+    "Fiber": 12.19999981,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 0.314,
+      "Monosaturated Fat": 0.303,
+      "Total": 1.92,
+      "Polysaturated Fat": 0.765
+    },
+    "Water": 12.76,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.935,
+    "Ash": 1.89,
+    "Alpha Carotene": 0,
+    "Retinol": 0,
+    "Manganese": 4.055,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.11,
+    "Cholesterol": 0,
+    "Lutein and Zeaxanthin": 220,
+    "Kilocalories": 329,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup",
+      "FirstHouseholdWeight": 192.0,
+      "SecondHouseholdWeight": 0,
+      "SecondHouseholdWeightDescription": ""
+    },
+    "Sugar Total": 0.409999996,
+    "Protein": 15.4
+  },
+  "Description": "WHEAT,HARD RED SPRING",
+  "Nutrient Data Bank Number": 20071
+},
+{
+  "Category": "WHEAT",
+  "Data": {
+    "Niacin": 5.464,
+    "Major Minerals": {
+      "Copper": 0.434,
+      "Iron": 3.19,
+      "Sodium": 2,
+      "Potassium": 363,
+      "Calcium": 29,
+      "Magnesium": 126,
+      "Zinc": 2.65,
+      "Phosphorus": 288
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 9,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 0.0,
+      "Vitamin B6": 0.3,
+      "Vitamin A - RAE": 0,
+      "Vitamin E": 1.01,
+      "Vitamin K": 1.9
+    },
+    "Carboydrate": 71.18,
+    "Selenium": 70.7,
+    "Thiamin": 0.383,
+    "Choline": 31,
+    "Beta Carotene": 5,
+    "Fiber": 12.19999981,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 0.269,
+      "Monosaturated Fat": 0.2,
+      "Total": 1.54,
+      "Polysaturated Fat": 0.627
+    },
+    "Water": 13.1,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.954,
+    "Ash": 1.57,
+    "Alpha Carotene": 0,
+    "Retinol": 0,
+    "Manganese": 3.985,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.115,
+    "Cholesterol": 0,
+    "Lutein and Zeaxanthin": 220,
+    "Kilocalories": 327,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup",
+      "FirstHouseholdWeight": 192.0,
+      "SecondHouseholdWeight": 0,
+      "SecondHouseholdWeightDescription": ""
+    },
+    "Sugar Total": 0.409999996,
+    "Protein": 12.61
+  },
+  "Description": "WHEAT,HARD RED WINTER",
+  "Nutrient Data Bank Number": 20072
+},
+{
+  "Category": "WHEAT",
+  "Data": {
+    "Niacin": 4.8,
+    "Major Minerals": {
+      "Copper": 0.45,
+      "Iron": 3.21,
+      "Sodium": 2,
+      "Potassium": 397,
+      "Calcium": 27,
+      "Magnesium": 126,
+      "Zinc": 2.63,
+      "Phosphorus": 493
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 0,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 0.0,
+      "Vitamin B6": 0.272,
+      "Vitamin A - RAE": 0,
+      "Vitamin E": 1.01,
+      "Vitamin K": 0.0
+    },
+    "Carboydrate": 74.24,
+    "Selenium": 0.0,
+    "Thiamin": 0.394,
+    "Choline": 0,
+    "Beta Carotene": 0,
+    "Fiber": 12.5,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 0.289,
+      "Monosaturated Fat": 0.178,
+      "Total": 1.56,
+      "Polysaturated Fat": 0.656
+    },
+    "Water": 12.17,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.85,
+    "Ash": 1.68,
+    "Alpha Carotene": 0,
+    "Retinol": 0,
+    "Manganese": 4.391,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.096,
+    "Cholesterol": 0,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 331,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup",
+      "FirstHouseholdWeight": 168.0,
+      "SecondHouseholdWeight": 0,
+      "SecondHouseholdWeightDescription": ""
+    },
+    "Sugar Total": 0.409999996,
+    "Protein": 10.35
+  },
+  "Description": "WHEAT,SOFT RED WINTER",
+  "Nutrient Data Bank Number": 20073
+},
+{
+  "Category": "WHEAT",
+  "Data": {
+    "Niacin": 4.381,
+    "Major Minerals": {
+      "Copper": 0.363,
+      "Iron": 4.56,
+      "Sodium": 2,
+      "Potassium": 432,
+      "Calcium": 32,
+      "Magnesium": 93,
+      "Zinc": 3.33,
+      "Phosphorus": 355
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 9,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 0.0,
+      "Vitamin B6": 0.368,
+      "Vitamin A - RAE": 0,
+      "Vitamin E": 1.01,
+      "Vitamin K": 1.9
+    },
+    "Carboydrate": 75.9,
+    "Selenium": 0.0,
+    "Thiamin": 0.387,
+    "Choline": 0,
+    "Beta Carotene": 5,
+    "Fiber": 12.19999981,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 0.277,
+      "Monosaturated Fat": 0.203,
+      "Total": 1.71,
+      "Polysaturated Fat": 0.75
+    },
+    "Water": 9.57,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.954,
+    "Ash": 1.52,
+    "Alpha Carotene": 0,
+    "Retinol": 0,
+    "Manganese": 3.821,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.108,
+    "Cholesterol": 0,
+    "Lutein and Zeaxanthin": 220,
+    "Kilocalories": 342,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup",
+      "FirstHouseholdWeight": 192.0,
+      "SecondHouseholdWeight": 0,
+      "SecondHouseholdWeightDescription": ""
+    },
+    "Sugar Total": 0.409999996,
+    "Protein": 11.31
+  },
+  "Description": "WHEAT,HARD WHITE",
+  "Nutrient Data Bank Number": 20074
+},
+{
+  "Category": "WHEAT",
+  "Data": {
+    "Niacin": 4.766,
+    "Major Minerals": {
+      "Copper": 0.426,
+      "Iron": 5.37,
+      "Sodium": 2,
+      "Potassium": 435,
+      "Calcium": 34,
+      "Magnesium": 90,
+      "Zinc": 3.46,
+      "Phosphorus": 402
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 9,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 0.0,
+      "Vitamin B6": 0.378,
+      "Vitamin A - RAE": 0,
+      "Vitamin E": 1.01,
+      "Vitamin K": 1.9
+    },
+    "Carboydrate": 75.36,
+    "Selenium": 0.0,
+    "Thiamin": 0.41,
+    "Choline": 0,
+    "Beta Carotene": 5,
+    "Fiber": 12.69999981,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 0.368,
+      "Monosaturated Fat": 0.227,
+      "Total": 1.99,
+      "Polysaturated Fat": 0.837
+    },
+    "Water": 10.42,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.85,
+    "Ash": 1.54,
+    "Alpha Carotene": 0,
+    "Retinol": 0,
+    "Manganese": 3.406,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.107,
+    "Cholesterol": 0,
+    "Lutein and Zeaxanthin": 220,
+    "Kilocalories": 340,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup",
+      "FirstHouseholdWeight": 168.0,
+      "SecondHouseholdWeight": 0,
+      "SecondHouseholdWeightDescription": ""
+    },
+    "Sugar Total": 0.409999996,
+    "Protein": 10.69
+  },
+  "Description": "WHEAT,SOFT WHITE",
+  "Nutrient Data Bank Number": 20075
+},
+{
+  "Category": "WHEAT",
+  "Data": {
+    "Niacin": 6.738,
+    "Major Minerals": {
+      "Copper": 0.553,
+      "Iron": 3.52,
+      "Sodium": 2,
+      "Potassium": 431,
+      "Calcium": 34,
+      "Magnesium": 144,
+      "Zinc": 4.16,
+      "Phosphorus": 508
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 0,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 0.0,
+      "Vitamin B6": 0.419,
+      "Vitamin A - RAE": 0,
+      "Vitamin E": 0.0,
+      "Vitamin K": 0.0
+    },
+    "Carboydrate": 71.13,
+    "Selenium": 89.4,
+    "Thiamin": 0.419,
+    "Choline": 0,
+    "Beta Carotene": 0,
+    "Fiber": 0.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 0.454,
+      "Monosaturated Fat": 0.344,
+      "Total": 2.47,
+      "Polysaturated Fat": 0.978
+    },
+    "Water": 10.94,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.935,
+    "Ash": 1.78,
+    "Alpha Carotene": 0,
+    "Retinol": 0,
+    "Manganese": 3.012,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.121,
+    "Cholesterol": 0,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 339,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup",
+      "FirstHouseholdWeight": 192.0,
+      "SecondHouseholdWeight": 0,
+      "SecondHouseholdWeightDescription": ""
+    },
+    "Sugar Total": 0.0,
+    "Protein": 13.68
+  },
+  "Description": "WHEAT,DURUM",
+  "Nutrient Data Bank Number": 20076
+},
+{
+  "Category": "WHEAT BRAN",
+  "Data": {
+    "Niacin": 13.578,
+    "Major Minerals": {
+      "Copper": 0.998,
+      "Iron": 10.57,
+      "Sodium": 2,
+      "Potassium": 1182,
+      "Calcium": 73,
+      "Magnesium": 611,
+      "Zinc": 7.27,
+      "Phosphorus": 1013
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 9,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 0.0,
+      "Vitamin B6": 1.303,
+      "Vitamin A - RAE": 0,
+      "Vitamin E": 1.49,
+      "Vitamin K": 1.9
+    },
+    "Carboydrate": 64.51,
+    "Selenium": 77.6,
+    "Thiamin": 0.523,
+    "Choline": 74,
+    "Beta Carotene": 6,
+    "Fiber": 42.79999924,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 0.63,
+      "Monosaturated Fat": 0.637,
+      "Total": 4.25,
+      "Polysaturated Fat": 2.212
+    },
+    "Water": 9.89,
+    "Lycopene": 0,
+    "Pantothenic Acid": 2.181,
+    "Ash": 5.79,
+    "Alpha Carotene": 0,
+    "Retinol": 0,
+    "Manganese": 11.5,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.577,
+    "Cholesterol": 0,
+    "Lutein and Zeaxanthin": 240,
+    "Kilocalories": 216,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup",
+      "FirstHouseholdWeight": 58.0,
+      "SecondHouseholdWeight": 0,
+      "SecondHouseholdWeightDescription": ""
+    },
+    "Sugar Total": 0.409999996,
+    "Protein": 15.55
+  },
+  "Description": "WHEAT BRAN,CRUDE",
+  "Nutrient Data Bank Number": 20077
+},
+{
+  "Category": "WHEAT GERM",
+  "Data": {
+    "Niacin": 6.813,
+    "Major Minerals": {
+      "Copper": 0.796,
+      "Iron": 6.26,
+      "Sodium": 12,
+      "Potassium": 892,
+      "Calcium": 39,
+      "Magnesium": 239,
+      "Zinc": 12.29,
+      "Phosphorus": 842
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 0,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 0.0,
+      "Vitamin B6": 1.3,
+      "Vitamin A - RAE": 0,
+      "Vitamin E": 0.0,
+      "Vitamin K": 0.0
+    },
+    "Carboydrate": 51.8,
+    "Selenium": 79.2,
+    "Thiamin": 1.882,
+    "Choline": 0,
+    "Beta Carotene": 0,
+    "Fiber": 13.19999981,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 1.665,
+      "Monosaturated Fat": 1.365,
+      "Total": 9.72,
+      "Polysaturated Fat": 6.01
+    },
+    "Water": 11.12,
+    "Lycopene": 0,
+    "Pantothenic Acid": 2.257,
+    "Ash": 4.21,
+    "Alpha Carotene": 0,
+    "Retinol": 0,
+    "Manganese": 13.301,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.499,
+    "Cholesterol": 0,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 360,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup",
+      "FirstHouseholdWeight": 115.0,
+      "SecondHouseholdWeight": 0,
+      "SecondHouseholdWeightDescription": ""
+    },
+    "Sugar Total": 0.0,
+    "Protein": 23.15
+  },
+  "Description": "WHEAT GERM,CRUDE",
+  "Nutrient Data Bank Number": 20078
+},
+{
+  "Category": "WHEAT FLOUR",
+  "Data": {
+    "Niacin": 6.365,
+    "Major Minerals": {
+      "Copper": 0.382,
+      "Iron": 3.88,
+      "Sodium": 5,
+      "Potassium": 405,
+      "Calcium": 34,
+      "Magnesium": 138,
+      "Zinc": 2.93,
+      "Phosphorus": 346
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 9,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 0.0,
+      "Vitamin B6": 0.341,
+      "Vitamin A - RAE": 0,
+      "Vitamin E": 0.82,
+      "Vitamin K": 1.9
+    },
+    "Carboydrate": 72.57,
+    "Selenium": 70.7,
+    "Thiamin": 0.447,
+    "Choline": 31,
+    "Beta Carotene": 5,
+    "Fiber": 12.19999981,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 0.322,
+      "Monosaturated Fat": 0.232,
+      "Total": 1.87,
+      "Polysaturated Fat": 0.779
+    },
+    "Water": 10.27,
+    "Lycopene": 0,
+    "Pantothenic Acid": 1.008,
+    "Ash": 1.6,
+    "Alpha Carotene": 0,
+    "Retinol": 0,
+    "Manganese": 3.799,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.215,
+    "Cholesterol": 0,
+    "Lutein and Zeaxanthin": 220,
+    "Kilocalories": 339,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup",
+      "FirstHouseholdWeight": 120.0,
+      "SecondHouseholdWeight": 0,
+      "SecondHouseholdWeightDescription": ""
+    },
+    "Sugar Total": 0.409999996,
+    "Protein": 13.7
+  },
+  "Description": "WHEAT FLOUR,WHOLE-GRAIN",
+  "Nutrient Data Bank Number": 20080
+},
+{
+  "Category": "WHEAT FLR",
+  "Data": {
+    "Niacin": 5.904,
+    "Major Minerals": {
+      "Copper": 0.144,
+      "Iron": 4.64,
+      "Sodium": 2,
+      "Potassium": 107,
+      "Calcium": 15,
+      "Magnesium": 22,
+      "Zinc": 0.7,
+      "Phosphorus": 108
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 0,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 0.0,
+      "Vitamin B6": 0.044,
+      "Vitamin A - RAE": 0,
+      "Vitamin E": 0.06,
+      "Vitamin K": 0.3
+    },
+    "Carboydrate": 76.31,
+    "Selenium": 33.9,
+    "Thiamin": 0.785,
+    "Choline": 10,
+    "Beta Carotene": 0,
+    "Fiber": 2.700000048,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 0.155,
+      "Monosaturated Fat": 0.087,
+      "Total": 0.98,
+      "Polysaturated Fat": 0.413
+    },
+    "Water": 11.92,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.438,
+    "Ash": 0.47,
+    "Alpha Carotene": 0,
+    "Retinol": 0,
+    "Manganese": 0.682,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.494,
+    "Cholesterol": 0,
+    "Lutein and Zeaxanthin": 18,
+    "Kilocalories": 364,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup",
+      "FirstHouseholdWeight": 125.0,
+      "SecondHouseholdWeight": 0,
+      "SecondHouseholdWeightDescription": ""
+    },
+    "Sugar Total": 0.270000011,
+    "Protein": 10.33
+  },
+  "Description": "WHEAT FLR,WHITE,ALL-PURPOSE,ENR,BLEACHED",
+  "Nutrient Data Bank Number": 20081
+},
+{
+  "Category": "WHEAT FLR",
+  "Data": {
+    "Niacin": 5.832,
+    "Major Minerals": {
+      "Copper": 0.112,
+      "Iron": 4.67,
+      "Sodium": 1270,
+      "Potassium": 124,
+      "Calcium": 338,
+      "Magnesium": 19,
+      "Zinc": 0.62,
+      "Phosphorus": 595
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 0,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 0.0,
+      "Vitamin B6": 0.05,
+      "Vitamin A - RAE": 0,
+      "Vitamin E": 0.05,
+      "Vitamin K": 0.3
+    },
+    "Carboydrate": 74.22,
+    "Selenium": 34.4,
+    "Thiamin": 0.674,
+    "Choline": 10,
+    "Beta Carotene": 0,
+    "Fiber": 2.700000048,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 0.154,
+      "Monosaturated Fat": 0.086,
+      "Total": 0.97,
+      "Polysaturated Fat": 0.41
+    },
+    "Water": 10.59,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.438,
+    "Ash": 4.33,
+    "Alpha Carotene": 0,
+    "Retinol": 0,
+    "Manganese": 1.0,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.414,
+    "Cholesterol": 0,
+    "Lutein and Zeaxanthin": 18,
+    "Kilocalories": 354,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup",
+      "FirstHouseholdWeight": 125.0,
+      "SecondHouseholdWeight": 0,
+      "SecondHouseholdWeightDescription": ""
+    },
+    "Sugar Total": 0.219999999,
+    "Protein": 9.89
+  },
+  "Description": "WHEAT FLR,WHITE,ALL-PURPOSE,SELF-RISING,ENR",
+  "Nutrient Data Bank Number": 20082
+},
+{
+  "Category": "WHEAT FLR",
+  "Data": {
+    "Niacin": 7.554,
+    "Major Minerals": {
+      "Copper": 0.182,
+      "Iron": 4.41,
+      "Sodium": 2,
+      "Potassium": 100,
+      "Calcium": 15,
+      "Magnesium": 25,
+      "Zinc": 0.85,
+      "Phosphorus": 97
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 2,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 0.0,
+      "Vitamin B6": 0.037,
+      "Vitamin A - RAE": 0,
+      "Vitamin E": 0.4,
+      "Vitamin K": 0.3
+    },
+    "Carboydrate": 72.53,
+    "Selenium": 39.7,
+    "Thiamin": 0.812,
+    "Choline": 10,
+    "Beta Carotene": 1,
+    "Fiber": 2.400000095,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 0.244,
+      "Monosaturated Fat": 0.14,
+      "Total": 1.66,
+      "Polysaturated Fat": 0.727
+    },
+    "Water": 13.36,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.438,
+    "Ash": 0.47,
+    "Alpha Carotene": 0,
+    "Retinol": 0,
+    "Manganese": 0.792,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.512,
+    "Cholesterol": 0,
+    "Lutein and Zeaxanthin": 79,
+    "Kilocalories": 361,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup",
+      "FirstHouseholdWeight": 137.0,
+      "SecondHouseholdWeight": 0,
+      "SecondHouseholdWeightDescription": ""
+    },
+    "Sugar Total": 0.310000002,
+    "Protein": 11.98
+  },
+  "Description": "WHEAT FLR,WHITE,BREAD,ENR",
+  "Nutrient Data Bank Number": 20083
+},
+{
+  "Category": "WHEAT FLR",
+  "Data": {
+    "Niacin": 6.79,
+    "Major Minerals": {
+      "Copper": 0.139,
+      "Iron": 7.32,
+      "Sodium": 2,
+      "Potassium": 105,
+      "Calcium": 14,
+      "Magnesium": 16,
+      "Zinc": 0.62,
+      "Phosphorus": 85
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 0,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 0.0,
+      "Vitamin B6": 0.033,
+      "Vitamin A - RAE": 0,
+      "Vitamin E": 0.02,
+      "Vitamin K": 0.3
+    },
+    "Carboydrate": 78.03,
+    "Selenium": 4.9,
+    "Thiamin": 0.892,
+    "Choline": 10,
+    "Beta Carotene": 0,
+    "Fiber": 1.700000048,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 0.127,
+      "Monosaturated Fat": 0.073,
+      "Total": 0.86,
+      "Polysaturated Fat": 0.379
+    },
+    "Water": 12.51,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.458,
+    "Ash": 0.39,
+    "Alpha Carotene": 0,
+    "Retinol": 0,
+    "Manganese": 0.634,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.43,
+    "Cholesterol": 0,
+    "Lutein and Zeaxanthin": 3,
+    "Kilocalories": 362,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup,  unsifted, dipped",
+      "FirstHouseholdWeight": 137.0,
+      "SecondHouseholdWeight": 0,
+      "SecondHouseholdWeightDescription": ""
+    },
+    "Sugar Total": 0.310000002,
+    "Protein": 8.2
+  },
+  "Description": "WHEAT FLR,WHITE,CAKE,ENR",
+  "Nutrient Data Bank Number": 20084
+},
+{
+  "Category": "WHEAT FLR",
+  "Data": {
+    "Niacin": 5.82,
+    "Major Minerals": {
+      "Copper": 0.1,
+      "Iron": 7.05,
+      "Sodium": 677,
+      "Potassium": 100,
+      "Calcium": 205,
+      "Magnesium": 21,
+      "Zinc": 0.64,
+      "Phosphorus": 210
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 0,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 0.0,
+      "Vitamin B6": 0.04,
+      "Vitamin A - RAE": 0,
+      "Vitamin E": 0.0,
+      "Vitamin K": 0.0
+    },
+    "Carboydrate": 67.14,
+    "Selenium": 0.0,
+    "Thiamin": 0.735,
+    "Choline": 0,
+    "Beta Carotene": 0,
+    "Fiber": 0.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 4.1,
+      "Monosaturated Fat": 4.541,
+      "Total": 10.63,
+      "Polysaturated Fat": 1.522
+    },
+    "Water": 10.08,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.394,
+    "Ash": 2.49,
+    "Alpha Carotene": 0,
+    "Retinol": 0,
+    "Manganese": 0.614,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.493,
+    "Cholesterol": 0,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 405,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup",
+      "FirstHouseholdWeight": 111.0,
+      "SecondHouseholdWeight": 0,
+      "SecondHouseholdWeightDescription": ""
+    },
+    "Sugar Total": 0.0,
+    "Protein": 9.66
+  },
+  "Description": "WHEAT FLR,WHITE,TORTILLA MIX,ENR",
+  "Nutrient Data Bank Number": 20086
+},
+{
+  "Category": "WHEAT",
+  "Data": {
+    "Niacin": 3.087,
+    "Major Minerals": {
+      "Copper": 0.261,
+      "Iron": 2.14,
+      "Sodium": 16,
+      "Potassium": 169,
+      "Calcium": 28,
+      "Magnesium": 82,
+      "Zinc": 1.65,
+      "Phosphorus": 200
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 0,
+      "Vitamin C": 2.6,
+      "Vitamin B12": 0.0,
+      "Vitamin B6": 0.265,
+      "Vitamin A - RAE": 0,
+      "Vitamin E": 0.0,
+      "Vitamin K": 0.0
+    },
+    "Carboydrate": 42.53,
+    "Selenium": 42.5,
+    "Thiamin": 0.225,
+    "Choline": 0,
+    "Beta Carotene": 0,
+    "Fiber": 1.100000024,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 0.206,
+      "Monosaturated Fat": 0.151,
+      "Total": 1.27,
+      "Polysaturated Fat": 0.557
+    },
+    "Water": 47.75,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.947,
+    "Ash": 0.96,
+    "Alpha Carotene": 0,
+    "Retinol": 0,
+    "Manganese": 1.858,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.155,
+    "Cholesterol": 0,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 198,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup",
+      "FirstHouseholdWeight": 108.0,
+      "SecondHouseholdWeight": 0,
+      "SecondHouseholdWeightDescription": ""
+    },
+    "Sugar Total": 0.0,
+    "Protein": 7.49
+  },
+  "Description": "WHEAT,SPROUTED",
+  "Nutrient Data Bank Number": 20087
+},
+{
+  "Category": "WILD RICE",
+  "Data": {
+    "Niacin": 6.733,
+    "Major Minerals": {
+      "Copper": 0.524,
+      "Iron": 1.96,
+      "Sodium": 7,
+      "Potassium": 427,
+      "Calcium": 21,
+      "Magnesium": 177,
+      "Zinc": 5.96,
+      "Phosphorus": 433
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 19,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 0.0,
+      "Vitamin B6": 0.391,
+      "Vitamin A - RAE": 1,
+      "Vitamin E": 0.82,
+      "Vitamin K": 1.9
+    },
+    "Carboydrate": 74.9,
+    "Selenium": 2.8,
+    "Thiamin": 0.115,
+    "Choline": 35,
+    "Beta Carotene": 11,
+    "Fiber": 6.199999809,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 0.156,
+      "Monosaturated Fat": 0.159,
+      "Total": 1.08,
+      "Polysaturated Fat": 0.676
+    },
+    "Water": 7.76,
+    "Lycopene": 0,
+    "Pantothenic Acid": 1.074,
+    "Ash": 1.53,
+    "Alpha Carotene": 0,
+    "Retinol": 0,
+    "Manganese": 1.329,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.262,
+    "Cholesterol": 0,
+    "Lutein and Zeaxanthin": 220,
+    "Kilocalories": 357,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup",
+      "FirstHouseholdWeight": 160.0,
+      "SecondHouseholdWeight": 0,
+      "SecondHouseholdWeightDescription": ""
+    },
+    "Sugar Total": 2.5,
+    "Protein": 14.73
+  },
+  "Description": "WILD RICE,RAW",
+  "Nutrient Data Bank Number": 20088
+},
+{
+  "Category": "WILD RICE",
+  "Data": {
+    "Niacin": 1.287,
+    "Major Minerals": {
+      "Copper": 0.121,
+      "Iron": 0.6,
+      "Sodium": 3,
+      "Potassium": 101,
+      "Calcium": 3,
+      "Magnesium": 32,
+      "Zinc": 1.34,
+      "Phosphorus": 82
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 3,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 0.0,
+      "Vitamin B6": 0.135,
+      "Vitamin A - RAE": 0,
+      "Vitamin E": 0.24,
+      "Vitamin K": 0.5
+    },
+    "Carboydrate": 21.34,
+    "Selenium": 0.8,
+    "Thiamin": 0.052,
+    "Choline": 10,
+    "Beta Carotene": 2,
+    "Fiber": 1.799999952,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 0.049,
+      "Monosaturated Fat": 0.05,
+      "Total": 0.34,
+      "Polysaturated Fat": 0.213
+    },
+    "Water": 73.93,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.154,
+    "Ash": 0.4,
+    "Alpha Carotene": 0,
+    "Retinol": 0,
+    "Manganese": 0.282,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.087,
+    "Cholesterol": 0,
+    "Lutein and Zeaxanthin": 64,
+    "Kilocalories": 101,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup",
+      "FirstHouseholdWeight": 164.0,
+      "SecondHouseholdWeight": 0,
+      "SecondHouseholdWeightDescription": ""
+    },
+    "Sugar Total": 0.730000019,
+    "Protein": 3.99
+  },
+  "Description": "WILD RICE,COOKED",
+  "Nutrient Data Bank Number": 20089
+},
+{
+  "Category": "RICE FLOUR",
+  "Data": {
+    "Niacin": 6.34,
+    "Major Minerals": {
+      "Copper": 0.23,
+      "Iron": 1.98,
+      "Sodium": 8,
+      "Potassium": 289,
+      "Calcium": 11,
+      "Magnesium": 112,
+      "Zinc": 2.45,
+      "Phosphorus": 337
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 0,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 0.0,
+      "Vitamin B6": 0.736,
+      "Vitamin A - RAE": 0,
+      "Vitamin E": 1.2,
+      "Vitamin K": 0.0
+    },
+    "Carboydrate": 76.48,
+    "Selenium": 0.0,
+    "Thiamin": 0.443,
+    "Choline": 0,
+    "Beta Carotene": 0,
+    "Fiber": 4.599999905,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 0.557,
+      "Monosaturated Fat": 1.008,
+      "Total": 2.78,
+      "Polysaturated Fat": 0.996
+    },
+    "Water": 11.97,
+    "Lycopene": 0,
+    "Pantothenic Acid": 1.591,
+    "Ash": 1.54,
+    "Alpha Carotene": 0,
+    "Retinol": 0,
+    "Manganese": 4.013,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.08,
+    "Cholesterol": 0,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 363,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup",
+      "FirstHouseholdWeight": 158.0,
+      "SecondHouseholdWeight": 0,
+      "SecondHouseholdWeightDescription": ""
+    },
+    "Sugar Total": 0.850000024,
+    "Protein": 7.23
+  },
+  "Description": "RICE FLOUR,BROWN",
+  "Nutrient Data Bank Number": 20090
+},
+{
+  "Category": "PASTA",
+  "Data": {
+    "Niacin": 2.43,
+    "Major Minerals": {
+      "Copper": 0.202,
+      "Iron": 0.93,
+      "Sodium": 3,
+      "Potassium": 294,
+      "Calcium": 4,
+      "Magnesium": 119,
+      "Zinc": 1.79,
+      "Phosphorus": 253
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 170,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 0.0,
+      "Vitamin B6": 0.206,
+      "Vitamin A - RAE": 9,
+      "Vitamin E": 0.0,
+      "Vitamin K": 0.0
+    },
+    "Carboydrate": 79.26,
+    "Selenium": 7.9,
+    "Thiamin": 0.231,
+    "Choline": 0,
+    "Beta Carotene": 0,
+    "Fiber": 11.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 0.29,
+      "Monosaturated Fat": 0.543,
+      "Total": 2.08,
+      "Polysaturated Fat": 0.924
+    },
+    "Water": 10.0,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.484,
+    "Ash": 1.2,
+    "Alpha Carotene": 0,
+    "Retinol": 0,
+    "Manganese": 0.483,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.087,
+    "Cholesterol": 0,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 357,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup",
+      "FirstHouseholdWeight": 105.0,
+      "SecondHouseholdWeight": 57,
+      "SecondHouseholdWeightDescription": "2 oz"
+    },
+    "Sugar Total": 0.0,
+    "Protein": 7.46
+  },
+  "Description": "PASTA,CORN,DRY",
+  "Nutrient Data Bank Number": 20091
+},
+{
+  "Category": "PASTA",
+  "Data": {
+    "Niacin": 0.556,
+    "Major Minerals": {
+      "Copper": 0.064,
+      "Iron": 0.25,
+      "Sodium": 0,
+      "Potassium": 31,
+      "Calcium": 1,
+      "Magnesium": 36,
+      "Zinc": 0.63,
+      "Phosphorus": 76
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 57,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 0.0,
+      "Vitamin B6": 0.058,
+      "Vitamin A - RAE": 3,
+      "Vitamin E": 0.0,
+      "Vitamin K": 0.0
+    },
+    "Carboydrate": 27.91,
+    "Selenium": 2.8,
+    "Thiamin": 0.053,
+    "Choline": 0,
+    "Beta Carotene": 0,
+    "Fiber": 4.800000191,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 0.102,
+      "Monosaturated Fat": 0.191,
+      "Total": 0.73,
+      "Polysaturated Fat": 0.325
+    },
+    "Water": 68.31,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.128,
+    "Ash": 0.42,
+    "Alpha Carotene": 0,
+    "Retinol": 0,
+    "Manganese": 0.153,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.023,
+    "Cholesterol": 0,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 126,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup",
+      "FirstHouseholdWeight": 140.0,
+      "SecondHouseholdWeight": 0,
+      "SecondHouseholdWeightDescription": ""
+    },
+    "Sugar Total": 0.0,
+    "Protein": 2.63
+  },
+  "Description": "PASTA,CORN,COOKED",
+  "Nutrient Data Bank Number": 20092
+},
+{
+  "Category": "PASTA",
+  "Data": {
+    "Niacin": 3.35,
+    "Major Minerals": {
+      "Copper": 0.228,
+      "Iron": 3.35,
+      "Sodium": 26,
+      "Potassium": 179,
+      "Calcium": 15,
+      "Magnesium": 46,
+      "Zinc": 1.22,
+      "Phosphorus": 163
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 47,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 0.31,
+      "Vitamin B6": 0.093,
+      "Vitamin A - RAE": 14,
+      "Vitamin E": 0.0,
+      "Vitamin K": 0.0
+    },
+    "Carboydrate": 54.73,
+    "Selenium": 0.0,
+    "Thiamin": 0.705,
+    "Choline": 0,
+    "Beta Carotene": 0,
+    "Fiber": 0.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 0.328,
+      "Monosaturated Fat": 0.271,
+      "Total": 2.3,
+      "Polysaturated Fat": 0.942
+    },
+    "Water": 31.0,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.535,
+    "Ash": 0.66,
+    "Alpha Carotene": 0,
+    "Retinol": 14,
+    "Manganese": 0.547,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.439,
+    "Cholesterol": 73,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 288,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "4.5 oz",
+      "FirstHouseholdWeight": 128.0,
+      "SecondHouseholdWeight": 0,
+      "SecondHouseholdWeightDescription": ""
+    },
+    "Sugar Total": 0.0,
+    "Protein": 11.31
+  },
+  "Description": "PASTA,FRESH-REFRIGERATED,PLN,AS PURCHASED",
+  "Nutrient Data Bank Number": 20093
+},
+{
+  "Category": "PASTA",
+  "Data": {
+    "Niacin": 0.992,
+    "Major Minerals": {
+      "Copper": 0.093,
+      "Iron": 1.14,
+      "Sodium": 6,
+      "Potassium": 24,
+      "Calcium": 6,
+      "Magnesium": 18,
+      "Zinc": 0.56,
+      "Phosphorus": 63
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 20,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 0.14,
+      "Vitamin B6": 0.034,
+      "Vitamin A - RAE": 6,
+      "Vitamin E": 0.0,
+      "Vitamin K": 0.0
+    },
+    "Carboydrate": 24.93,
+    "Selenium": 0.0,
+    "Thiamin": 0.209,
+    "Choline": 0,
+    "Beta Carotene": 0,
+    "Fiber": 0.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 0.15,
+      "Monosaturated Fat": 0.124,
+      "Total": 1.05,
+      "Polysaturated Fat": 0.429
+    },
+    "Water": 68.56,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.183,
+    "Ash": 0.3,
+    "Alpha Carotene": 0,
+    "Retinol": 6,
+    "Manganese": 0.224,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.15,
+    "Cholesterol": 33,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 131,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "2 oz",
+      "FirstHouseholdWeight": 57.0,
+      "SecondHouseholdWeight": 0,
+      "SecondHouseholdWeightDescription": ""
+    },
+    "Sugar Total": 0.0,
+    "Protein": 5.15
+  },
+  "Description": "PASTA,FRESH-REFRIGERATED,PLN,CKD",
+  "Nutrient Data Bank Number": 20094
+},
+{
+  "Category": "PASTA",
+  "Data": {
+    "Niacin": 3.46,
+    "Major Minerals": {
+      "Copper": 0.197,
+      "Iron": 3.3,
+      "Sodium": 27,
+      "Potassium": 272,
+      "Calcium": 43,
+      "Magnesium": 63,
+      "Zinc": 1.4,
+      "Phosphorus": 148
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 241,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 0.31,
+      "Vitamin B6": 0.315,
+      "Vitamin A - RAE": 25,
+      "Vitamin E": 0.0,
+      "Vitamin K": 0.0
+    },
+    "Carboydrate": 55.72,
+    "Selenium": 0.0,
+    "Thiamin": 0.609,
+    "Choline": 0,
+    "Beta Carotene": 0,
+    "Fiber": 0.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 0.483,
+      "Monosaturated Fat": 0.659,
+      "Total": 2.1,
+      "Polysaturated Fat": 0.467
+    },
+    "Water": 30.1,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.688,
+    "Ash": 0.82,
+    "Alpha Carotene": 0,
+    "Retinol": 15,
+    "Manganese": 0.781,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.398,
+    "Cholesterol": 73,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 289,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "4.5 oz",
+      "FirstHouseholdWeight": 128.0,
+      "SecondHouseholdWeight": 0,
+      "SecondHouseholdWeightDescription": ""
+    },
+    "Sugar Total": 0.0,
+    "Protein": 11.26
+  },
+  "Description": "PASTA,FRESH-REFRIGERATED,SPINACH,AS PURCHASED",
+  "Nutrient Data Bank Number": 20095
+},
+{
+  "Category": "PASTA",
+  "Data": {
+    "Niacin": 1.011,
+    "Major Minerals": {
+      "Copper": 0.08,
+      "Iron": 1.11,
+      "Sodium": 6,
+      "Potassium": 37,
+      "Calcium": 18,
+      "Magnesium": 24,
+      "Zinc": 0.63,
+      "Phosphorus": 57
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 103,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 0.14,
+      "Vitamin B6": 0.113,
+      "Vitamin A - RAE": 10,
+      "Vitamin E": 0.0,
+      "Vitamin K": 0.0
+    },
+    "Carboydrate": 25.04,
+    "Selenium": 0.0,
+    "Thiamin": 0.178,
+    "Choline": 0,
+    "Beta Carotene": 0,
+    "Fiber": 0.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 0.217,
+      "Monosaturated Fat": 0.296,
+      "Total": 0.94,
+      "Polysaturated Fat": 0.21
+    },
+    "Water": 68.58,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.232,
+    "Ash": 0.37,
+    "Alpha Carotene": 0,
+    "Retinol": 6,
+    "Manganese": 0.316,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.134,
+    "Cholesterol": 33,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 130,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "2 oz",
+      "FirstHouseholdWeight": 57.0,
+      "SecondHouseholdWeight": 0,
+      "SecondHouseholdWeightDescription": ""
+    },
+    "Sugar Total": 0.0,
+    "Protein": 5.06
+  },
+  "Description": "PASTA,FRESH-REFRIGERATED,SPINACH,CKD",
+  "Nutrient Data Bank Number": 20096
+},
+{
+  "Category": "PASTA",
+  "Data": {
+    "Niacin": 1.257,
+    "Major Minerals": {
+      "Copper": 0.056,
+      "Iron": 1.16,
+      "Sodium": 83,
+      "Potassium": 21,
+      "Calcium": 10,
+      "Magnesium": 14,
+      "Zinc": 0.44,
+      "Phosphorus": 52
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 58,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 0.1,
+      "Vitamin B6": 0.037,
+      "Vitamin A - RAE": 17,
+      "Vitamin E": 0.0,
+      "Vitamin K": 0.0
+    },
+    "Carboydrate": 23.54,
+    "Selenium": 0.0,
+    "Thiamin": 0.173,
+    "Choline": 0,
+    "Beta Carotene": 0,
+    "Fiber": 0.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 0.408,
+      "Monosaturated Fat": 0.508,
+      "Total": 1.74,
+      "Polysaturated Fat": 0.521
+    },
+    "Water": 68.71,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.231,
+    "Ash": 0.73,
+    "Alpha Carotene": 0,
+    "Retinol": 17,
+    "Manganese": 0.183,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.174,
+    "Cholesterol": 41,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 130,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "2 oz",
+      "FirstHouseholdWeight": 57.0,
+      "SecondHouseholdWeight": 0,
+      "SecondHouseholdWeightDescription": ""
+    },
+    "Sugar Total": 0.0,
+    "Protein": 5.28
+  },
+  "Description": "PASTA,HOMEMADE,MADE W/EGG,CKD",
+  "Nutrient Data Bank Number": 20097
+}, {
+  "Category": "CHICKEN",
+  "Data": {
+    "Niacin": 3.319,
+    "Major Minerals": {
+      "Copper": 0.097,
+      "Iron": 2.3,
+      "Sodium": 52,
+      "Potassium": 108,
+      "Calcium": 27,
+      "Magnesium": 13,
+      "Zinc": 2.72,
+      "Phosphorus": 122
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 161,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 0.14,
+      "Vitamin B6": 0.1,
+      "Vitamin A - RAE": 48,
+      "Vitamin E": 0.27,
+      "Vitamin K": 3.9
+    },
+    "Carboydrate": 0.0,
+    "Selenium": 17.3,
+    "Thiamin": 0.04,
+    "Choline": 49,
+    "Beta Carotene": 0,
+    "Fiber": 0.0,
+    "Refuse Percentage": 32,
+    "Fat": {
+      "Saturated Fat": 5.0,
+      "Monosaturated Fat": 7.22,
+      "Total": 18.1,
+      "Polysaturated Fat": 3.94
+    },
+    "Water": 61.73,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.525,
+    "Ash": 0.61,
+    "Alpha Carotene": 0,
+    "Retinol": 48,
+    "Manganese": 0.046,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.248,
+    "Cholesterol": 70,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 247,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 unit,  (yield from 1 lb ready-to-cook chicken)",
+      "FirstHouseholdWeight": 11.0,
+      "SecondHouseholdWeight": 38,
+      "SecondHouseholdWeightDescription": "1 neck, bone removed"
+    },
+    "Sugar Total": 0.0,
+    "Protein": 19.61
+  },
+  "Description": "CHICKEN,BROILERS OR FRYERS,NECK,MEAT&SKN,CKD SIMMRD",
+  "Nutrient Data Bank Number": 5087
+},
+{
+  "Category": "CHICKEN",
+  "Data": {
+    "Niacin": 4.119,
+    "Major Minerals": {
+      "Copper": 0.109,
+      "Iron": 2.06,
+      "Sodium": 81,
+      "Potassium": 175,
+      "Calcium": 27,
+      "Magnesium": 17,
+      "Zinc": 2.68,
+      "Phosphorus": 113
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 146,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 0.32,
+      "Vitamin B6": 0.29,
+      "Vitamin A - RAE": 44,
+      "Vitamin E": 0.0,
+      "Vitamin K": 0.0
+    },
+    "Carboydrate": 0.0,
+    "Selenium": 13.5,
+    "Thiamin": 0.054,
+    "Choline": 0,
+    "Beta Carotene": 0,
+    "Fiber": 0.0,
+    "Refuse Percentage": 75,
+    "Fat": {
+      "Saturated Fat": 2.25,
+      "Monosaturated Fat": 2.73,
+      "Total": 8.78,
+      "Polysaturated Fat": 2.18
+    },
+    "Water": 71.17,
+    "Lycopene": 0,
+    "Pantothenic Acid": 1.09,
+    "Ash": 0.69,
+    "Alpha Carotene": 0,
+    "Retinol": 44,
+    "Manganese": 0.035,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.228,
+    "Cholesterol": 83,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 154,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 unit,  (yield from 1 lb ready-to-cook chicken)",
+      "FirstHouseholdWeight": 6.0,
+      "SecondHouseholdWeight": 20,
+      "SecondHouseholdWeightDescription": "1 neck, bone and skin removed"
+    },
+    "Sugar Total": 0.0,
+    "Protein": 17.55
+  },
+  "Description": "CHICKEN,BROILERS OR FRYERS,NECK,MEAT ONLY,RAW",
+  "Nutrient Data Bank Number": 5088
+},
+{
+  "Category": "CHICKEN",
+  "Data": {
+    "Niacin": 5.027,
+    "Major Minerals": {
+      "Copper": 0.161,
+      "Iron": 2.98,
+      "Sodium": 99,
+      "Potassium": 213,
+      "Calcium": 41,
+      "Magnesium": 20,
+      "Zinc": 4.24,
+      "Phosphorus": 135
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 162,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 0.3,
+      "Vitamin B6": 0.35,
+      "Vitamin A - RAE": 49,
+      "Vitamin E": 0.0,
+      "Vitamin K": 0.0
+    },
+    "Carboydrate": 1.77,
+    "Selenium": 20.5,
+    "Thiamin": 0.07,
+    "Choline": 0,
+    "Beta Carotene": 0,
+    "Fiber": 0.0,
+    "Refuse Percentage": 56,
+    "Fat": {
+      "Saturated Fat": 3.0,
+      "Monosaturated Fat": 4.57,
+      "Total": 11.88,
+      "Polysaturated Fat": 3.04
+    },
+    "Water": 58.71,
+    "Lycopene": 0,
+    "Pantothenic Acid": 1.165,
+    "Ash": 0.78,
+    "Alpha Carotene": 0,
+    "Retinol": 49,
+    "Manganese": 0.05,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.318,
+    "Cholesterol": 105,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 229,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 unit,  (yield from 1 lb ready-to-cook chicken)",
+      "FirstHouseholdWeight": 7.0,
+      "SecondHouseholdWeight": 22,
+      "SecondHouseholdWeightDescription": "1 neck, bone and skin removed"
+    },
+    "Sugar Total": 0.0,
+    "Protein": 26.87
+  },
+  "Description": "CHICKEN,BROILERS OR FRYERS,NECK,MEAT ONLY,CKD,FRIED",
+  "Nutrient Data Bank Number": 5089
+},
+{
+  "Category": "CHICKEN",
+  "Data": {
+    "Niacin": 3.956,
+    "Major Minerals": {
+      "Copper": 0.129,
+      "Iron": 2.63,
+      "Sodium": 64,
+      "Potassium": 140,
+      "Calcium": 44,
+      "Magnesium": 16,
+      "Zinc": 3.77,
+      "Phosphorus": 128
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 121,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 0.17,
+      "Vitamin B6": 0.16,
+      "Vitamin A - RAE": 36,
+      "Vitamin E": 0.0,
+      "Vitamin K": 0.0
+    },
+    "Carboydrate": 0.0,
+    "Selenium": 20.5,
+    "Thiamin": 0.046,
+    "Choline": 0,
+    "Beta Carotene": 0,
+    "Fiber": 0.0,
+    "Refuse Percentage": 67,
+    "Fat": {
+      "Saturated Fat": 2.1,
+      "Monosaturated Fat": 2.54,
+      "Total": 8.18,
+      "Polysaturated Fat": 2.03
+    },
+    "Water": 67.05,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.671,
+    "Ash": 0.77,
+    "Alpha Carotene": 0,
+    "Retinol": 36,
+    "Manganese": 0.048,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.283,
+    "Cholesterol": 79,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 179,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 unit,  (yield from 1 lb ready-to-cook chicken)",
+      "FirstHouseholdWeight": 5.0,
+      "SecondHouseholdWeight": 18,
+      "SecondHouseholdWeightDescription": "1 neck, bone and skin removed"
+    },
+    "Sugar Total": 0.0,
+    "Protein": 24.56
+  },
+  "Description": "CHICKEN,BROILERS OR FRYERS,NECK,MEAT ONLY,CKD,SIMMRD",
+  "Nutrient Data Bank Number": 5090
+},
+{
+  "Category": "SOUP",
+  "Data": {
+    "Niacin": 0.54,
+    "Major Minerals": {
+      "Copper": 0.064,
+      "Iron": 0.66,
+      "Sodium": 265,
+      "Potassium": 22,
+      "Calcium": 6,
+      "Magnesium": 4,
+      "Zinc": 0.16,
+      "Phosphorus": 17
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 201,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 0.02,
+      "Vitamin B6": 0.02,
+      "Vitamin A - RAE": 11,
+      "Vitamin E": 0.03,
+      "Vitamin K": 0.0
+    },
+    "Carboydrate": 2.95,
+    "Selenium": 4.8,
+    "Thiamin": 0.055,
+    "Choline": 6,
+    "Beta Carotene": 119,
+    "Fiber": 0.200000003,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 0.262,
+      "Monosaturated Fat": 0.418,
+      "Total": 0.95,
+      "Polysaturated Fat": 0.264
+    },
+    "Water": 93.82,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.074,
+    "Ash": 1.01,
+    "Alpha Carotene": 0,
+    "Retinol": 1,
+    "Manganese": 0.051,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.045,
+    "Cholesterol": 5,
+    "Lutein and Zeaxanthin": 4,
+    "Kilocalories": 25,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 serving, 1 cup",
+      "FirstHouseholdWeight": 247.9,
+      "SecondHouseholdWeight": 0,
+      "SecondHouseholdWeightDescription": ""
+    },
+    "Sugar Total": 0.270000011,
+    "Protein": 1.27
+  },
+  "Description": "SOUP,CHICK NOODLE,CND,PREP W/ EQ VOLUME H2O",
+  "Nutrient Data Bank Number": 6419
+},
+{
+  "Category": "CAMPBELL'S CHUNKY SOUPS",
+  "Data": {
+    "Niacin": 0.0,
+    "Major Minerals": {
+      "Copper": 0.0,
+      "Iron": 0.44,
+      "Sodium": 380,
+      "Potassium": 0,
+      "Calcium": 16,
+      "Magnesium": 0,
+      "Zinc": 0.0,
+      "Phosphorus": 0
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 1224,
+      "Vitamin C": 1.0,
+      "Vitamin B12": 0.0,
+      "Vitamin B6": 0.0,
+      "Vitamin A - RAE": 0,
+      "Vitamin E": 0.0,
+      "Vitamin K": 0.0
+    },
+    "Carboydrate": 9.39,
+    "Selenium": 0.0,
+    "Thiamin": 0.0,
+    "Choline": 0,
+    "Beta Carotene": 0,
+    "Fiber": 1.200000048,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 0.0,
+      "Monosaturated Fat": 0.0,
+      "Total": 0.82,
+      "Polysaturated Fat": 0.0
+    },
+    "Water": 86.7,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.0,
+    "Ash": 1.46,
+    "Alpha Carotene": 0,
+    "Retinol": 0,
+    "Manganese": 0.0,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.0,
+    "Cholesterol": 2,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 51,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup",
+      "FirstHouseholdWeight": 245.0,
+      "SecondHouseholdWeight": 245,
+      "SecondHouseholdWeightDescription": "1 serving"
+    },
+    "Sugar Total": 3.670000076,
+    "Protein": 1.63
+  },
+  "Description": "CAMPBELL'S CHUNKY SOUPS,HEARTY VEG W/ PASTA SOUP",
+  "Nutrient Data Bank Number": 6420
+}, {
+  "Category": "AVOCADOS",
+  "Data": {
+    "Niacin": 0.672,
+    "Major Minerals": {
+      "Copper": 0.311,
+      "Iron": 0.17,
+      "Sodium": 2,
+      "Potassium": 351,
+      "Calcium": 10,
+      "Magnesium": 24,
+      "Zinc": 0.4,
+      "Phosphorus": 40
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 140,
+      "Vitamin C": 17.4,
+      "Vitamin B12": 0.0,
+      "Vitamin B6": 0.078,
+      "Vitamin A - RAE": 7,
+      "Vitamin E": 2.66,
+      "Vitamin K": 0.0
+    },
+    "Carboydrate": 7.82,
+    "Selenium": 0.0,
+    "Thiamin": 0.021,
+    "Choline": 0,
+    "Beta Carotene": 53,
+    "Fiber": 5.599999905,
+    "Refuse Percentage": 33,
+    "Fat": {
+      "Saturated Fat": 1.96,
+      "Monosaturated Fat": 5.513,
+      "Total": 10.06,
+      "Polysaturated Fat": 1.676
+    },
+    "Water": 78.81,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.931,
+    "Ash": 1.08,
+    "Alpha Carotene": 27,
+    "Retinol": 0,
+    "Manganese": 0.095,
+    "Beta Cryptoxanthin": 36,
+    "Riboflavin": 0.053,
+    "Cholesterol": 0,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 120,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup, pureed",
+      "FirstHouseholdWeight": 230.0,
+      "SecondHouseholdWeight": 304,
+      "SecondHouseholdWeightDescription": "1 fruit, without skin and seeds"
+    },
+    "Sugar Total": 2.420000076,
+    "Protein": 2.23
+  },
+  "Description": "AVOCADOS,RAW,FLORIDA",
+  "Nutrient Data Bank Number": 9039
+},
+{
+  "Category": "BANANAS",
+  "Data": {
+    "Niacin": 0.665,
+    "Major Minerals": {
+      "Copper": 0.078,
+      "Iron": 0.26,
+      "Sodium": 1,
+      "Potassium": 358,
+      "Calcium": 5,
+      "Magnesium": 27,
+      "Zinc": 0.15,
+      "Phosphorus": 22
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 64,
+      "Vitamin C": 8.7,
+      "Vitamin B12": 0.0,
+      "Vitamin B6": 0.367,
+      "Vitamin A - RAE": 3,
+      "Vitamin E": 0.1,
+      "Vitamin K": 0.5
+    },
+    "Carboydrate": 22.84,
+    "Selenium": 1.0,
+    "Thiamin": 0.031,
+    "Choline": 10,
+    "Beta Carotene": 26,
+    "Fiber": 2.599999905,
+    "Refuse Percentage": 36,
+    "Fat": {
+      "Saturated Fat": 0.112,
+      "Monosaturated Fat": 0.032,
+      "Total": 0.33,
+      "Polysaturated Fat": 0.073
+    },
+    "Water": 74.91,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.334,
+    "Ash": 0.82,
+    "Alpha Carotene": 25,
+    "Retinol": 0,
+    "Manganese": 0.27,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.073,
+    "Cholesterol": 0,
+    "Lutein and Zeaxanthin": 22,
+    "Kilocalories": 89,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup, mashed",
+      "FirstHouseholdWeight": 225.0,
+      "SecondHouseholdWeight": 150,
+      "SecondHouseholdWeightDescription": "1 cup, sliced"
+    },
+    "Sugar Total": 12.22999954,
+    "Protein": 1.09
+  },
+  "Description": "BANANAS,RAW",
+  "Nutrient Data Bank Number": 9040
+},
+{
+  "Category": "BANANAS",
+  "Data": {
+    "Niacin": 2.8,
+    "Major Minerals": {
+      "Copper": 0.391,
+      "Iron": 1.15,
+      "Sodium": 3,
+      "Potassium": 1491,
+      "Calcium": 22,
+      "Magnesium": 108,
+      "Zinc": 0.61,
+      "Phosphorus": 74
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 248,
+      "Vitamin C": 7.0,
+      "Vitamin B12": 0.0,
+      "Vitamin B6": 0.44,
+      "Vitamin A - RAE": 12,
+      "Vitamin E": 0.39,
+      "Vitamin K": 2.0
+    },
+    "Carboydrate": 88.28,
+    "Selenium": 3.9,
+    "Thiamin": 0.18,
+    "Choline": 20,
+    "Beta Carotene": 101,
+    "Fiber": 9.899999619,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 0.698,
+      "Monosaturated Fat": 0.153,
+      "Total": 1.81,
+      "Polysaturated Fat": 0.337
+    },
+    "Water": 3.0,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.0,
+    "Ash": 3.02,
+    "Alpha Carotene": 96,
+    "Retinol": 0,
+    "Manganese": 0.574,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.24,
+    "Cholesterol": 0,
+    "Lutein and Zeaxanthin": 84,
+    "Kilocalories": 346,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup",
+      "FirstHouseholdWeight": 100.0,
+      "SecondHouseholdWeight": 6,
+      "SecondHouseholdWeightDescription": "1 tbsp"
+    },
+    "Sugar Total": 47.29999924,
+    "Protein": 3.89
+  },
+  "Description": "BANANAS,DEHYD,OR BANANA PDR",
+  "Nutrient Data Bank Number": 9041
+},
+{
+  "Category": "BLACKBERRIES",
+  "Data": {
+    "Niacin": 0.646,
+    "Major Minerals": {
+      "Copper": 0.165,
+      "Iron": 0.62,
+      "Sodium": 1,
+      "Potassium": 162,
+      "Calcium": 29,
+      "Magnesium": 20,
+      "Zinc": 0.53,
+      "Phosphorus": 22
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 214,
+      "Vitamin C": 21.0,
+      "Vitamin B12": 0.0,
+      "Vitamin B6": 0.03,
+      "Vitamin A - RAE": 11,
+      "Vitamin E": 1.17,
+      "Vitamin K": 19.8
+    },
+    "Carboydrate": 9.61,
+    "Selenium": 0.4,
+    "Thiamin": 0.02,
+    "Choline": 8,
+    "Beta Carotene": 128,
+    "Fiber": 5.300000191,
+    "Refuse Percentage": 4,
+    "Fat": {
+      "Saturated Fat": 0.014,
+      "Monosaturated Fat": 0.047,
+      "Total": 0.49,
+      "Polysaturated Fat": 0.28
+    },
+    "Water": 88.15,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.276,
+    "Ash": 0.37,
+    "Alpha Carotene": 0,
+    "Retinol": 0,
+    "Manganese": 0.646,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.026,
+    "Cholesterol": 0,
+    "Lutein and Zeaxanthin": 118,
+    "Kilocalories": 43,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup",
+      "FirstHouseholdWeight": 144.0,
+      "SecondHouseholdWeight": 0,
+      "SecondHouseholdWeightDescription": ""
+    },
+    "Sugar Total": 4.880000114,
+    "Protein": 1.39
+  },
+  "Description": "BLACKBERRIES,RAW",
+  "Nutrient Data Bank Number": 9042
+},
+{
+  "Category": "BLACKBERRY JUC",
+  "Data": {
+    "Niacin": 0.446,
+    "Major Minerals": {
+      "Copper": 0.114,
+      "Iron": 0.48,
+      "Sodium": 1,
+      "Potassium": 135,
+      "Calcium": 12,
+      "Magnesium": 21,
+      "Zinc": 0.41,
+      "Phosphorus": 12
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 123,
+      "Vitamin C": 11.3,
+      "Vitamin B12": 0.0,
+      "Vitamin B6": 0.021,
+      "Vitamin A - RAE": 6,
+      "Vitamin E": 0.9,
+      "Vitamin K": 15.2
+    },
+    "Carboydrate": 7.8,
+    "Selenium": 0.3,
+    "Thiamin": 0.012,
+    "Choline": 7,
+    "Beta Carotene": 74,
+    "Fiber": 0.100000001,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 0.018,
+      "Monosaturated Fat": 0.058,
+      "Total": 0.6,
+      "Polysaturated Fat": 0.344
+    },
+    "Water": 90.9,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.0,
+    "Ash": 0.4,
+    "Alpha Carotene": 0,
+    "Retinol": 0,
+    "Manganese": 0.0,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.018,
+    "Cholesterol": 0,
+    "Lutein and Zeaxanthin": 68,
+    "Kilocalories": 38,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup",
+      "FirstHouseholdWeight": 250.0,
+      "SecondHouseholdWeight": 0,
+      "SecondHouseholdWeightDescription": ""
+    },
+    "Sugar Total": 7.699999809,
+    "Protein": 0.3
+  },
+  "Description": "BLACKBERRY JUC,CND",
+  "Nutrient Data Bank Number": 9043
+},
+
+{
+  "Category": "YOGURT",
+  "Data": {
+    "Niacin": 0.075,
+    "Major Minerals": {
+      "Copper": 0.009,
+      "Iron": 0.05,
+      "Sodium": 46,
+      "Potassium": 155,
+      "Calcium": 121,
+      "Magnesium": 12,
+      "Zinc": 0.59,
+      "Phosphorus": 95
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 99,
+      "Vitamin C": 0.5,
+      "Vitamin B12": 0.37,
+      "Vitamin B6": 0.032,
+      "Vitamin A - RAE": 27,
+      "Vitamin E": 0.06,
+      "Vitamin K": 0.2
+    },
+    "Carboydrate": 4.66,
+    "Selenium": 2.2,
+    "Thiamin": 0.029,
+    "Choline": 15,
+    "Beta Carotene": 5,
+    "Fiber": 0.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 2.096,
+      "Monosaturated Fat": 0.893,
+      "Total": 3.25,
+      "Polysaturated Fat": 0.092
+    },
+    "Water": 87.9,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.389,
+    "Ash": 0.72,
+    "Alpha Carotene": 0,
+    "Retinol": 27,
+    "Manganese": 0.004,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.142,
+    "Cholesterol": 13,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 61,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup,  (8 fl oz)",
+      "FirstHouseholdWeight": 245.0,
+      "SecondHouseholdWeight": 227,
+      "SecondHouseholdWeightDescription": "1 container,  (8 oz)"
+    },
+    "Sugar Total": 4.659999847,
+    "Protein": 3.47
+  },
+  "Description": "YOGURT,PLN,WHL MILK,8 GRAMS PROT PER 8 OZ",
+  "Nutrient Data Bank Number": 1116
+},
+{
+  "Category": "YOGURT",
+  "Data": {
+    "Niacin": 0.114,
+    "Major Minerals": {
+      "Copper": 0.013,
+      "Iron": 0.08,
+      "Sodium": 70,
+      "Potassium": 234,
+      "Calcium": 183,
+      "Magnesium": 17,
+      "Zinc": 0.89,
+      "Phosphorus": 144
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 51,
+      "Vitamin C": 0.8,
+      "Vitamin B12": 0.56,
+      "Vitamin B6": 0.049,
+      "Vitamin A - RAE": 14,
+      "Vitamin E": 0.03,
+      "Vitamin K": 0.2
+    },
+    "Carboydrate": 7.04,
+    "Selenium": 3.3,
+    "Thiamin": 0.044,
+    "Choline": 15,
+    "Beta Carotene": 2,
+    "Fiber": 0.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 1.0,
+      "Monosaturated Fat": 0.426,
+      "Total": 1.55,
+      "Polysaturated Fat": 0.044
+    },
+    "Water": 85.07,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.591,
+    "Ash": 1.09,
+    "Alpha Carotene": 0,
+    "Retinol": 14,
+    "Manganese": 0.004,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.214,
+    "Cholesterol": 6,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 63,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup,  (8 fl oz)",
+      "FirstHouseholdWeight": 245.0,
+      "SecondHouseholdWeight": 227,
+      "SecondHouseholdWeightDescription": "1 container,  (8 oz)"
+    },
+    "Sugar Total": 7.039999962,
+    "Protein": 5.25
+  },
+  "Description": "YOGURT,PLN,LOFAT,12 GRAMS PROT PER 8 OZ",
+  "Nutrient Data Bank Number": 1117
+},
+{
+  "Category": "YOGURT",
+  "Data": {
+    "Niacin": 0.124,
+    "Major Minerals": {
+      "Copper": 0.015,
+      "Iron": 0.09,
+      "Sodium": 77,
+      "Potassium": 255,
+      "Calcium": 199,
+      "Magnesium": 19,
+      "Zinc": 0.97,
+      "Phosphorus": 157
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 7,
+      "Vitamin C": 0.9,
+      "Vitamin B12": 0.61,
+      "Vitamin B6": 0.053,
+      "Vitamin A - RAE": 2,
+      "Vitamin E": 0.0,
+      "Vitamin K": 0.2
+    },
+    "Carboydrate": 7.68,
+    "Selenium": 3.6,
+    "Thiamin": 0.048,
+    "Choline": 15,
+    "Beta Carotene": 0,
+    "Fiber": 0.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 0.116,
+      "Monosaturated Fat": 0.049,
+      "Total": 0.18,
+      "Polysaturated Fat": 0.005
+    },
+    "Water": 85.23,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.641,
+    "Ash": 1.18,
+    "Alpha Carotene": 0,
+    "Retinol": 2,
+    "Manganese": 0.005,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.234,
+    "Cholesterol": 2,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 56,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup,  (8 fl oz)",
+      "FirstHouseholdWeight": 245.0,
+      "SecondHouseholdWeight": 227,
+      "SecondHouseholdWeightDescription": "1 container,  (8 oz)"
+    },
+    "Sugar Total": 7.679999828,
+    "Protein": 5.73
+  },
+  "Description": "YOGURT,PLN,SKIM MILK,13 GRAMS PROT PER 8 OZ",
+  "Nutrient Data Bank Number": 1118
+},
+{
+  "Category": "PASTA",
+  "Data": {
+    "Niacin": 1.343,
+    "Major Minerals": {
+      "Copper": 0.06,
+      "Iron": 1.13,
+      "Sodium": 74,
+      "Potassium": 19,
+      "Calcium": 6,
+      "Magnesium": 14,
+      "Zinc": 0.37,
+      "Phosphorus": 40
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 0,
+      "Vitamin C": 0.0,
+      "Vitamin B12": 0.0,
+      "Vitamin B6": 0.028,
+      "Vitamin A - RAE": 0,
+      "Vitamin E": 0.0,
+      "Vitamin K": 0.0
+    },
+    "Carboydrate": 25.12,
+    "Selenium": 0.0,
+    "Thiamin": 0.182,
+    "Choline": 0,
+    "Beta Carotene": 0,
+    "Fiber": 0.0,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 0.14,
+      "Monosaturated Fat": 0.187,
+      "Total": 0.98,
+      "Polysaturated Fat": 0.508
+    },
+    "Water": 68.86,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.15,
+    "Ash": 0.66,
+    "Alpha Carotene": 0,
+    "Retinol": 0,
+    "Manganese": 0.193,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.148,
+    "Cholesterol": 0,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 124,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "2 oz",
+      "FirstHouseholdWeight": 57.0,
+      "SecondHouseholdWeight": 0,
+      "SecondHouseholdWeightDescription": ""
+    },
+    "Sugar Total": 0.0,
+    "Protein": 4.37
+  },
+  "Description": "PASTA,HOMEMADE,MADE WO/EGG,CKD",
+  "Nutrient Data Bank Number": 20098
+},
+{
+  "Category": "POTATO",
+  "Data": {
+    "Niacin": 1.054,
+    "Major Minerals": {
+      "Copper": 0.108,
+      "Iron": 0.78,
+      "Sodium": 6,
+      "Potassium": 421,
+      "Calcium": 12,
+      "Magnesium": 23,
+      "Zinc": 0.29,
+      "Phosphorus": 57
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 2,
+      "Vitamin C": 19.7,
+      "Vitamin B12": 0.0,
+      "Vitamin B6": 0.295,
+      "Vitamin A - RAE": 0,
+      "Vitamin E": 0.01,
+      "Vitamin K": 1.9
+    },
+    "Carboydrate": 17.47,
+    "Selenium": 0.3,
+    "Thiamin": 0.08,
+    "Choline": 12,
+    "Beta Carotene": 1,
+    "Fiber": 2.200000048,
+    "Refuse Percentage": 25,
+    "Fat": {
+      "Saturated Fat": 0.026,
+      "Monosaturated Fat": 0.002,
+      "Total": 0.09,
+      "Polysaturated Fat": 0.043
+    },
+    "Water": 79.34,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.296,
+    "Ash": 1.08,
+    "Alpha Carotene": 0,
+    "Retinol": 0,
+    "Manganese": 0.153,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.032,
+    "Cholesterol": 0,
+    "Lutein and Zeaxanthin": 8,
+    "Kilocalories": 77,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 Potato, large (3\" to 4-1/4\" dia)",
+      "FirstHouseholdWeight": 369.0,
+      "SecondHouseholdWeight": 213,
+      "SecondHouseholdWeightDescription": "1 Potato, medium (2-1/4\" to 3-1/4\" dia)"
+    },
+    "Sugar Total": 0.779999971,
+    "Protein": 2.02
+  },
+  "Description": "POTATO,FLESH & SKN,RAW",
+  "Nutrient Data Bank Number": 11352
+},
+{
+  "Category": "POTATOES",
+  "Data": {
+    "Niacin": 1.035,
+    "Major Minerals": {
+      "Copper": 0.103,
+      "Iron": 0.86,
+      "Sodium": 5,
+      "Potassium": 417,
+      "Calcium": 13,
+      "Magnesium": 23,
+      "Zinc": 0.29,
+      "Phosphorus": 55
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 1,
+      "Vitamin C": 5.7,
+      "Vitamin B12": 0.0,
+      "Vitamin B6": 0.345,
+      "Vitamin A - RAE": 0,
+      "Vitamin E": 0.01,
+      "Vitamin K": 1.8
+    },
+    "Carboydrate": 18.07,
+    "Selenium": 0.4,
+    "Thiamin": 0.082,
+    "Choline": 13,
+    "Beta Carotene": 0,
+    "Fiber": 1.299999952,
+    "Refuse Percentage": 0,
+    "Fat": {
+      "Saturated Fat": 0.02,
+      "Monosaturated Fat": 0.002,
+      "Total": 0.08,
+      "Polysaturated Fat": 0.035
+    },
+    "Water": 78.58,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.301,
+    "Ash": 1.13,
+    "Alpha Carotene": 0,
+    "Retinol": 0,
+    "Manganese": 0.157,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.033,
+    "Cholesterol": 0,
+    "Lutein and Zeaxanthin": 5,
+    "Kilocalories": 79,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 potato, large (3\" to 4-1/4\" dia)",
+      "FirstHouseholdWeight": 369.0,
+      "SecondHouseholdWeight": 213,
+      "SecondHouseholdWeightDescription": "1 Potato, medium (2-1/4\" to 3-1/4\" dia)"
+    },
+    "Sugar Total": 0.620000005,
+    "Protein": 2.14
+  },
+  "Description": "POTATOES,RUSSET,FLESH & SKN,RAW",
+  "Nutrient Data Bank Number": 11353
+},
+{
+  "Category": "CUCUMBER",
+  "Data": {
+    "Niacin": 0.098,
+    "Major Minerals": {
+      "Copper": 0.041,
+      "Iron": 0.28,
+      "Sodium": 2,
+      "Potassium": 147,
+      "Calcium": 16,
+      "Magnesium": 13,
+      "Zinc": 0.2,
+      "Phosphorus": 24
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 105,
+      "Vitamin C": 2.8,
+      "Vitamin B12": 0.0,
+      "Vitamin B6": 0.04,
+      "Vitamin A - RAE": 5,
+      "Vitamin E": 0.03,
+      "Vitamin K": 16.4
+    },
+    "Carboydrate": 3.63,
+    "Selenium": 0.3,
+    "Thiamin": 0.027,
+    "Choline": 6,
+    "Beta Carotene": 45,
+    "Fiber": 0.5,
+    "Refuse Percentage": 3,
+    "Fat": {
+      "Saturated Fat": 0.037,
+      "Monosaturated Fat": 0.005,
+      "Total": 0.11,
+      "Polysaturated Fat": 0.032
+    },
+    "Water": 95.23,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.259,
+    "Ash": 0.38,
+    "Alpha Carotene": 11,
+    "Retinol": 0,
+    "Manganese": 0.079,
+    "Beta Cryptoxanthin": 26,
+    "Riboflavin": 0.033,
+    "Cholesterol": 0,
+    "Lutein and Zeaxanthin": 23,
+    "Kilocalories": 15,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": ".5 cup, slices",
+      "FirstHouseholdWeight": 52.0,
+      "SecondHouseholdWeight": 301,
+      "SecondHouseholdWeightDescription": "1 cucumber,  (8-1/4\")"
+    },
+    "Sugar Total": 1.669999957,
+    "Protein": 0.65
+  },
+  "Description": "CUCUMBER,WITH PEEL,RAW",
+  "Nutrient Data Bank Number": 11205
+}, {
+  "Category": "LEMONS",
+  "Data": {
+    "Niacin": 0.1,
+    "Major Minerals": {
+      "Copper": 0.037,
+      "Iron": 0.6,
+      "Sodium": 2,
+      "Potassium": 138,
+      "Calcium": 26,
+      "Magnesium": 8,
+      "Zinc": 0.06,
+      "Phosphorus": 16
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 22,
+      "Vitamin C": 53.0,
+      "Vitamin B12": 0.0,
+      "Vitamin B6": 0.08,
+      "Vitamin A - RAE": 1,
+      "Vitamin E": 0.15,
+      "Vitamin K": 0.0
+    },
+    "Carboydrate": 9.32,
+    "Selenium": 0.4,
+    "Thiamin": 0.04,
+    "Choline": 5,
+    "Beta Carotene": 3,
+    "Fiber": 2.799999952,
+    "Refuse Percentage": 47,
+    "Fat": {
+      "Saturated Fat": 0.039,
+      "Monosaturated Fat": 0.011,
+      "Total": 0.3,
+      "Polysaturated Fat": 0.089
+    },
+    "Water": 88.98,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.19,
+    "Ash": 0.3,
+    "Alpha Carotene": 1,
+    "Retinol": 0,
+    "Manganese": 0.03,
+    "Beta Cryptoxanthin": 20,
+    "Riboflavin": 0.02,
+    "Cholesterol": 0,
+    "Lutein and Zeaxanthin": 11,
+    "Kilocalories": 29,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 cup, sections",
+      "FirstHouseholdWeight": 212.0,
+      "SecondHouseholdWeight": 58,
+      "SecondHouseholdWeightDescription": "1 fruit,  (2-1/8\" dia)"
+    },
+    "Sugar Total": 2.5,
+    "Protein": 1.1
+  },
+  "Description": "LEMONS,RAW,WITHOUT PEEL",
+  "Nutrient Data Bank Number": 9150
+},
+{
+  "Category": "LEMONS",
+  "Data": {
+    "Niacin": 0.2,
+    "Major Minerals": {
+      "Copper": 0.26,
+      "Iron": 0.7,
+      "Sodium": 3,
+      "Potassium": 145,
+      "Calcium": 61,
+      "Magnesium": 12,
+      "Zinc": 0.1,
+      "Phosphorus": 15
+    },
+    "Vitamins": {
+      "Vitamin A - IU": 30,
+      "Vitamin C": 77.0,
+      "Vitamin B12": 0.0,
+      "Vitamin B6": 0.109,
+      "Vitamin A - RAE": 2,
+      "Vitamin E": 0.0,
+      "Vitamin K": 0.0
+    },
+    "Carboydrate": 10.7,
+    "Selenium": 0.0,
+    "Thiamin": 0.05,
+    "Choline": 0,
+    "Beta Carotene": 0,
+    "Fiber": 4.699999809,
+    "Refuse Percentage": 2,
+    "Fat": {
+      "Saturated Fat": 0.039,
+      "Monosaturated Fat": 0.011,
+      "Total": 0.3,
+      "Polysaturated Fat": 0.089
+    },
+    "Water": 87.4,
+    "Lycopene": 0,
+    "Pantothenic Acid": 0.232,
+    "Ash": 0.4,
+    "Alpha Carotene": 0,
+    "Retinol": 0,
+    "Manganese": 0.0,
+    "Beta Cryptoxanthin": 0,
+    "Riboflavin": 0.04,
+    "Cholesterol": 0,
+    "Lutein and Zeaxanthin": 0,
+    "Kilocalories": 20,
+    "HouseholdWeights": {
+      "FirstHouseholdWeightDescription": "1 fruit, without seeds",
+      "FirstHouseholdWeight": 108.0,
+      "SecondHouseholdWeight": 0,
+      "SecondHouseholdWeightDescription": ""
+    },
+    "Sugar Total": 0.0,
+    "Protein": 1.2
+  },
+  "Description": "LEMONS,RAW,WITH PEEL",
+  "Nutrient Data Bank Number": 9151
+}
+
+]
