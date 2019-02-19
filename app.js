@@ -63,7 +63,7 @@ class UI {
     //Pass them in table's tfoot as total values
     document.getElementById('total-cal').innerHTML = `${cal.toFixed(2)} kcal`;
     document.getElementById('total-car').innerHTML = `${car.toFixed(2)} g`;
-    document.getElementById('total-fat').innerHTML = `${cal.toFixed(2)} g`;
+    document.getElementById('total-fat').innerHTML = `${fat.toFixed(2)} g`;
  
     
   }
