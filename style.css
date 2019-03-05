@@ -1,8 +1,8 @@
 
 .bg-gradient{
-  background-color: #000046 !important; /* fallback for old browsers */ 
-  background-color: -webkit-linear-gradient(to right, #000046, #1cb5e0) !important; /* Chrome 10-25, Safari 5.1-6 */ 
-  background-color: linear-gradient(to right, #000046, #1cb5e0) !important; /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: #000046; /* fallback for old browsers */ 
+  background: -webkit-linear-gradient(to right, #000046, #1cb5e0); /* Chrome 10-25, Safari 5.1-6 */ 
+  background: linear-gradient(to right, #000046, #1cb5e0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 .lead{
   font-size: 1.2rem;
